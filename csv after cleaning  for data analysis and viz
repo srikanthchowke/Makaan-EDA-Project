@@ -1,0 +1,1788 @@
+,BUILDERS,SIZE,PROPERTY_TYPE,PROPERTY_ADDRESS,CITY,AREA,RATE_SQFT,PRICE,CONSTRUCTION_STATUS,LISTED_BY
+0,Ashoka Builders India Private LimitedBUILDER0,3,Apartment,Nanakramguda,Hyderabad,1870,9499,1.77,Under Construction,BUILDER
+1,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3587,8300,2.97,Under Construction,BUILDER
+2,Raghuram Pradeep Constructions India LLPBUILDER0,4,Apartment,Puppalaguda,Hyderabad,3715,10891,4.04,Under Construction,BUILDER
+3,Kalyan Infra ProjectsBUILDER0,3,Apartment,Manchirevula,Hyderabad,2150,6800,1.46,Ready to move,BUILDER
+4,Risinia BuildersBUILDER0,2,Apartment,Pragathi,Hyderabad,1312,5599,0.7345,Under Construction,BUILDER
+5,MKT Praneeth HomesBUILDER0,2,Apartment,Isnapur,Hyderabad,1144,4200,0.4804,Under Construction,BUILDER
+6,APR GroupBUILDER0,4,Independent,Kollur,Hyderabad,3860,10000,3.86,Under Construction,BUILDER
+7,Praneeth GroupBUILDER0,3,Apartment,Hyder,Hyderabad,2257,7599,1.71,Under Construction,BUILDER
+8,GHR InfraBUILDER0,3,Apartment,Kollur,Hyderabad,1775,5999,1.06,Under Construction,BUILDER
+9,Greenmark DevelopersBUILDER0,5,Villa,Kollur,Hyderabad,6111,12142,7.41,Under Construction,BUILDER
+10,Hallmark BuildersBUILDER0,3,Apartment,Narsingi,Hyderabad,2255,8299,1.87,Under Construction,BUILDER
+11,Aavasa ConstructionsBUILDER0,2,Apartment,LB,Hyderabad,1310,7000,0.917,Ready to move,BUILDER
+12,Theme Ambience InfrastructuresBUILDER0,3,Apartment,Attapur,Hyderabad,2090,7499,1.56,Under Construction,BUILDER
+13,Signature AvenuesBUILDER0,3,Apartment,Kollur,Hyderabad,1900,5999,1.13,Under Construction,BUILDER
+14,GK Builders DevelopersBUILDER0,3,Apartment,Yapral,Hyderabad,1735,5400,0.9369,Ready to move,BUILDER
+15,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,2004,7600,1.52,Under Construction,BUILDER
+16,BSCPL Infrastructure LtdBUILDER0,3,Apartment,Kondapur,Hyderabad,1965,13587,2.66,Ready to move,BUILDER
+17,Merlion BuildersBUILDER0,3,Apartment,Nizampet,Hyderabad,1551,6002,0.9303,Ready to move,BUILDER
+18,Vajra Builders And DevelopersBUILDER0,5,Villa,Dundigal,Hyderabad,2624,6500,1.7,Under Construction,BUILDER
+19,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1840,5950,1.09,Under Construction,BUILDER
+20,Maram Infra Projects PvtLtdBUILDER0,2,Apartment,Pocharam,Hyderabad,1245,5055,0.6293,Under Construction,BUILDER
+21,Anuhar Homes Pvt LtdBUILDER0,3,Apartment,Miyapur,Hyderabad,1932,6500,1.25,Ready to move,BUILDER
+22,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2285,10540,2.4,Ready to move,BUILDER
+23,EIPL GroupBUILDER0,3,Apartment,Puppalaguda,Hyderabad,2350,7800,1.83,Under Construction,BUILDER
+24,Vasavi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1965,7400,1.45,Under Construction,BUILDER
+25,Mahaveer GroupBUILDER0,4,Apartment,Attapur,Hyderabad,5345,8500,4.54,Under Construction,BUILDER
+26,Sri Aditya SquaresBUILDER0,4,Villa,Ramachandrapuram,Hyderabad,3392,7999,2.71,Under Construction,BUILDER
+27,Sumadhura Infracon Pvt LtdBUILDER0,3,Apartment,Nanakramguda,Hyderabad,1670,13592,2.26,Under Construction,BUILDER
+28,Cyber City OrianaBUILDER0,3,Apartment,Kukatpally,Hyderabad,1480,8399,1.24,Under Construction,BUILDER
+29,Jain ConstructionsBUILDER0,2,Apartment,Kompally,Hyderabad,1090,6754,0.7356,Under Construction,BUILDER
+30,Ashoka Builders India Private LimitedBUILDER0,3,Apartment,Nanakramguda,Hyderabad,1870,9499,1.77,Under Construction,BUILDER
+31,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3587,8300,2.97,Under Construction,BUILDER
+32,Raghuram Pradeep Constructions India LLPBUILDER0,3,Apartment,Puppalaguda,Hyderabad,2165,9901,2.14,Under Construction,BUILDER
+33,Kalyan Infra ProjectsBUILDER0,3,Apartment,Manchirevula,Hyderabad,1965,6800,1.33,Ready to move,BUILDER
+34,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,1935,5999,1.16,Ready to move,BUILDER
+35,MKT Praneeth HomesBUILDER0,2,Apartment,Isnapur,Hyderabad,1239,4200,0.5203,Under Construction,BUILDER
+36,APR GroupBUILDER0,4,Independent,Kollur,Hyderabad,3712,10000,3.71,Under Construction,BUILDER
+37,Praneeth GroupBUILDER0,2,Apartment,Hyder,Hyderabad,1305,7599,0.9915999999999999,Under Construction,BUILDER
+38,GHR InfraBUILDER0,3,Apartment,Kollur,Hyderabad,1775,5999,1.06,Under Construction,BUILDER
+39,Greenmark DevelopersBUILDER0,5,Villa,Kollur,Hyderabad,6111,12142,7.41,Under Construction,BUILDER
+40,Hallmark BuildersBUILDER0,3,Apartment,Gandipet,Hyderabad,2040,9000,1.83,Under Construction,BUILDER
+41,Aavasa ConstructionsBUILDER0,3,Apartment,LB,Hyderabad,2345,7000,1.64,Ready to move,BUILDER
+42,Theme Ambience InfrastructuresBUILDER0,4,Apartment,Attapur,Hyderabad,2655,7499,1.99,Under Construction,BUILDER
+43,Signature AvenuesBUILDER0,2,Apartment,Kollur,Hyderabad,1550,5999,0.9298000000000001,Under Construction,BUILDER
+44,GK Builders DevelopersBUILDER0,2,Apartment,Yapral,Hyderabad,1220,5400,0.6587999999999999,Ready to move,BUILDER
+45,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,2004,7600,1.52,Under Construction,BUILDER
+46,BSCPL Infrastructure LtdBUILDER0,3,Apartment,Kondapur,Hyderabad,1965,13587,2.66,Ready to move,BUILDER
+47,Merlion BuildersBUILDER0,3,Apartment,Nizampet,Hyderabad,1854,6002,1.11,Ready to move,BUILDER
+48,Vajra Builders And DevelopersBUILDER0,5,Villa,Dundigal,Hyderabad,2624,6500,1.7,Under Construction,BUILDER
+49,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1840,5950,1.09,Under Construction,BUILDER
+50,Maram Infra Projects PvtLtdBUILDER0,2,Apartment,Pocharam,Hyderabad,1245,5055,0.6293,Under Construction,BUILDER
+51,Anuhar Homes Pvt LtdBUILDER0,2,Apartment,Miyapur,Hyderabad,1551,6500,1.0,Ready to move,BUILDER
+52,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2285,10540,2.4,Ready to move,BUILDER
+53,EIPL GroupBUILDER0,3,Apartment,Puppalaguda,Hyderabad,2215,7800,1.72,Under Construction,BUILDER
+54,Vasavi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1965,7400,1.45,Under Construction,BUILDER
+55,Mahaveer GroupBUILDER0,3,Apartment,Attapur,Hyderabad,2680,8500,2.27,Under Construction,BUILDER
+56,Sri Aditya SquaresBUILDER0,4,Villa,Ramachandrapuram,Hyderabad,4141,7999,3.31,Under Construction,BUILDER
+57,Sumadhura Infracon Pvt LtdBUILDER0,3,Apartment,Nanakramguda,Hyderabad,3000,13592,4.07,Under Construction,BUILDER
+58,Cyber City OrianaBUILDER0,2,Apartment,Kukatpally,Hyderabad,1250,8399,1.04,Under Construction,BUILDER
+59,Jain ConstructionsBUILDER0,2,Apartment,Kompally,Hyderabad,1090,6754,0.7356,Under Construction,BUILDER
+60,Ashoka Builders India Private LimitedBUILDER0,3,Apartment,Nanakramguda,Hyderabad,1695,9499,1.61,Under Construction,BUILDER
+61,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3500,8300,2.9,Under Construction,BUILDER
+62,Raghuram Pradeep Constructions India LLPBUILDER0,3,Apartment,Puppalaguda,Hyderabad,2045,9920,2.02,Under Construction,BUILDER
+63,Kalyan Infra ProjectsBUILDER0,3,Apartment,Manchirevula,Hyderabad,1640,6800,1.11,Ready to move,BUILDER
+64,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,2223,5999,1.33,Ready to move,BUILDER
+65,MKT Praneeth HomesBUILDER0,2,Apartment,Isnapur,Hyderabad,1065,4202,0.4471,Under Construction,BUILDER
+66,APR GroupBUILDER0,4,Independent,Kollur,Hyderabad,3700,10000,3.7,Under Construction,BUILDER
+67,Praneeth GroupBUILDER0,3,Apartment,Hyder,Hyderabad,1778,7599,1.35,Under Construction,BUILDER
+68,GHR InfraBUILDER0,2,Apartment,Kollur,Hyderabad,1295,5999,0.7768,Under Construction,BUILDER
+69,Greenmark DevelopersBUILDER0,4,Villa,Kollur,Hyderabad,4222,10895,4.59,Under Construction,BUILDER
+70,Hallmark BuildersBUILDER0,3,Apartment,Gandipet,Hyderabad,2040,9000,1.83,Under Construction,BUILDER
+71,Aavasa ConstructionsBUILDER0,3,Apartment,LB,Hyderabad,1535,7000,1.07,Ready to move,BUILDER
+72,Theme Ambience InfrastructuresBUILDER0,3,Apartment,Attapur,Hyderabad,2170,7499,1.62,Under Construction,BUILDER
+73,Signature AvenuesBUILDER0,3,Apartment,Kollur,Hyderabad,1820,5999,1.09,Under Construction,BUILDER
+74,GK Builders DevelopersBUILDER0,3,Apartment,Yapral,Hyderabad,1650,5400,0.8909999999999999,Ready to move,BUILDER
+75,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1711,7600,1.3,Under Construction,BUILDER
+76,BSCPL Infrastructure LtdBUILDER0,3,Apartment,Kondapur,Hyderabad,2290,13587,3.11,Ready to move,BUILDER
+77,Merlion BuildersBUILDER0,3,Apartment,Nizampet,Hyderabad,1745,6000,1.04,Ready to move,BUILDER
+78,Vajra Builders And DevelopersBUILDER0,5,Villa,Dundigal,Hyderabad,2624,6500,1.7,Under Construction,BUILDER
+79,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1975,5950,1.17,Under Construction,BUILDER
+80,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,1510,5055,0.7633,Under Construction,BUILDER
+81,Anuhar Homes Pvt LtdBUILDER0,3,Apartment,Miyapur,Hyderabad,1676,6500,1.08,Ready to move,BUILDER
+82,Salarpuria SattvaBUILDER0,2,Apartment,Shaikpet,Hyderabad,1495,9640,1.44,Ready to move,BUILDER
+83,EIPL GroupBUILDER0,3,Apartment,Puppalaguda,Hyderabad,2300,7800,1.79,Under Construction,BUILDER
+84,Vasavi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1900,7400,1.4,Under Construction,BUILDER
+85,Mahaveer GroupBUILDER0,4,Apartment,Attapur,Hyderabad,5345,8500,4.54,Under Construction,BUILDER
+86,Sri Aditya SquaresBUILDER0,4,Villa,Ramachandrapuram,Hyderabad,3760,7999,3.0,Under Construction,BUILDER
+87,Sumadhura Infracon Pvt LtdBUILDER0,3,Apartment,Nanakramguda,Hyderabad,2010,13592,2.73,Under Construction,BUILDER
+88,Cyber City OrianaBUILDER0,3,Apartment,Kukatpally,Hyderabad,2380,8399,1.99,Under Construction,BUILDER
+89,Jain ConstructionsBUILDER0,4,Apartment,Kompally,Hyderabad,2255,6751,1.52,Under Construction,BUILDER
+90,M KartheekAGENT0,3,Apartment,Tellapur,Hyderabad,2150,7299,1.56,Under Construction,AGENT
+91,Maaruthi GroupAGENT0,2,Apartment,Pragathi,Hyderabad,1195,4800,0.5736,Ready to move,AGENT
+92,Ashoka Builders India Private LimitedBUILDER0,3,Apartment,Nanakramguda,Hyderabad,1695,9499,1.61,Under Construction,BUILDER
+93,Ashoka Builders India Private LimitedBUILDER0,3,Apartment,Nanakramguda,Hyderabad,1980,9799,1.94,Under Construction,BUILDER
+94,Ashoka Builders India Private LimitedBUILDER0,3,Apartment,Nanakramguda,Hyderabad,2220,9803,2.17,Under Construction,BUILDER
+95,Ashoka Builders India Private LimitedBUILDER0,3,Apartment,Nanakramguda,Hyderabad,2210,9799,2.16,Under Construction,BUILDER
+96,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3500,8300,2.9,Under Construction,BUILDER
+97,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3755,8300,3.11,Under Construction,BUILDER
+98,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3755,8300,3.11,Under Construction,BUILDER
+99,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3479,8300,2.88,Under Construction,BUILDER
+100,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3479,8300,2.88,Under Construction,BUILDER
+101,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,4300,8300,3.56,Under Construction,BUILDER
+102,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,4300,8300,3.56,Under Construction,BUILDER
+103,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3340,8300,2.77,Under Construction,BUILDER
+104,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3340,8300,2.77,Under Construction,BUILDER
+105,Raghuram Pradeep Constructions India LLPBUILDER0,4,Apartment,Puppalaguda,Hyderabad,3510,11016,3.86,Under Construction,BUILDER
+106,Raghuram Pradeep Constructions India LLPBUILDER0,3,Apartment,Puppalaguda,Hyderabad,1725,9982,1.72,Under Construction,BUILDER
+107,APR GroupBUILDER0,4,Independent,Kollur,Hyderabad,3806,10000,3.8,Under Construction,BUILDER
+108,APR GroupBUILDER0,4,Independent,Kollur,Hyderabad,3405,10000,3.4,Under Construction,BUILDER
+109,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,1673,5999,1.0,Ready to move,BUILDER
+110,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,1843,5999,1.1,Ready to move,BUILDER
+111,Risinia BuildersBUILDER0,2,Apartment,Bachupally,Hyderabad,1261,5999,0.7564,Ready to move,BUILDER
+112,Kalyan Infra ProjectsBUILDER0,3,Apartment,Manchirevula,Hyderabad,2055,6800,1.39,Ready to move,BUILDER
+113,Kalyan Infra ProjectsBUILDER0,3,Apartment,Manchirevula,Hyderabad,1795,6800,1.22,Ready to move,BUILDER
+114,Kalyan Infra ProjectsBUILDER0,3,Apartment,Manchirevula,Hyderabad,1725,6800,1.17,Ready to move,BUILDER
+115,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,1673,5999,1.0,Ready to move,BUILDER
+116,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,1843,5999,1.1,Ready to move,BUILDER
+117,Risinia BuildersBUILDER0,2,Apartment,Bachupally,Hyderabad,1261,5999,0.7564,Ready to move,BUILDER
+118,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,1651,5999,0.9904000000000001,Ready to move,BUILDER
+119,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,2126,5999,1.27,Ready to move,BUILDER
+120,Risinia BuildersBUILDER0,2,Apartment,Bachupally,Hyderabad,1388,5999,0.8326,Ready to move,BUILDER
+121,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,1527,5999,0.9159999999999999,Ready to move,BUILDER
+122,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,1928,5999,1.15,Ready to move,BUILDER
+123,MKT Praneeth HomesBUILDER0,2,Apartment,Isnapur,Hyderabad,988,4200,0.41490000000000005,Under Construction,BUILDER
+124,MKT Praneeth HomesBUILDER0,2,Apartment,Isnapur,Hyderabad,1127,4200,0.4733,Under Construction,BUILDER
+125,MKT Praneeth HomesBUILDER0,2,Apartment,Isnapur,Hyderabad,960,4200,0.4032,Under Construction,BUILDER
+126,MKT Praneeth HomesBUILDER0,2,Apartment,Isnapur,Hyderabad,1126,4200,0.4729,Under Construction,BUILDER
+127,MKT Praneeth HomesBUILDER0,2,Apartment,Isnapur,Hyderabad,1026,4200,0.43090000000000006,Under Construction,BUILDER
+128,MKT Praneeth HomesBUILDER0,2,Apartment,Isnapur,Hyderabad,1008,4200,0.4233,Under Construction,BUILDER
+129,MKT Praneeth HomesBUILDER0,2,Apartment,Isnapur,Hyderabad,996,4200,0.4183,Under Construction,BUILDER
+130,MKT Praneeth HomesBUILDER0,2,Apartment,Isnapur,Hyderabad,848,4200,0.35609999999999997,Under Construction,BUILDER
+131,APR GroupBUILDER0,4,Independent,Kollur,Hyderabad,3806,10000,3.8,Under Construction,BUILDER
+132,APR GroupBUILDER0,4,Independent,Kollur,Hyderabad,3405,10000,3.4,Under Construction,BUILDER
+133,Ashoka Builders India Private LimitedBUILDER0,3,Apartment,Nanakramguda,Hyderabad,1695,9499,1.61,Under Construction,BUILDER
+134,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3500,8300,2.9,Under Construction,BUILDER
+135,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3755,8300,3.11,Under Construction,BUILDER
+136,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3755,8300,3.11,Under Construction,BUILDER
+137,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3479,8300,2.88,Under Construction,BUILDER
+138,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3479,8300,2.88,Under Construction,BUILDER
+139,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,4300,8300,3.56,Under Construction,BUILDER
+140,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,4300,8300,3.56,Under Construction,BUILDER
+141,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3340,8300,2.77,Under Construction,BUILDER
+142,Sunyuga Infra Pvt LtdBUILDER0,4,Villa,Gundlapochampally,Hyderabad,3340,8300,2.77,Under Construction,BUILDER
+143,Raghuram Pradeep Constructions India LLPBUILDER0,4,Apartment,Puppalaguda,Hyderabad,3510,11016,3.86,Under Construction,BUILDER
+144,Raghuram Pradeep Constructions India LLPBUILDER0,3,Apartment,Puppalaguda,Hyderabad,1725,9982,1.72,Under Construction,BUILDER
+145,Praneeth GroupBUILDER0,2,Apartment,Hyder,Hyderabad,1317,7599,1.0,Under Construction,BUILDER
+146,Praneeth GroupBUILDER0,2,Apartment,Hyder,Hyderabad,1356,7599,1.03,Under Construction,BUILDER
+147,Praneeth GroupBUILDER0,3,Apartment,Hyder,Hyderabad,1766,7599,1.34,Under Construction,BUILDER
+148,Praneeth GroupBUILDER0,2,Apartment,Hyder,Hyderabad,1365,7599,1.03,Under Construction,BUILDER
+149,Praneeth GroupBUILDER0,2,Apartment,Hyder,Hyderabad,1362,7599,1.03,Under Construction,BUILDER
+150,Praneeth GroupBUILDER0,3,Apartment,Hyder,Hyderabad,1869,7599,1.42,Under Construction,BUILDER
+151,Praneeth GroupBUILDER0,3,Apartment,Hyder,Hyderabad,1670,7599,1.26,Under Construction,BUILDER
+152,Praneeth GroupBUILDER0,3,Apartment,Hyder,Hyderabad,2013,7599,1.52,Under Construction,BUILDER
+153,Praneeth GroupBUILDER0,3,Apartment,Hyder,Hyderabad,3130,7599,2.37,Under Construction,BUILDER
+154,Praneeth GroupBUILDER0,2,Apartment,Hyder,Hyderabad,1550,7599,1.17,Under Construction,BUILDER
+155,Praneeth GroupBUILDER0,3,Apartment,Hyder,Hyderabad,2623,7599,1.99,Under Construction,BUILDER
+156,Praneeth GroupBUILDER0,3,Apartment,Hyder,Hyderabad,2630,7599,1.99,Under Construction,BUILDER
+157,Greenmark DevelopersBUILDER0,4,Villa,Kollur,Hyderabad,4222,10895,4.59,Under Construction,BUILDER
+158,Greenmark DevelopersBUILDER0,4,Villa,Kollur,Hyderabad,4455,10887,4.85,Under Construction,BUILDER
+159,Greenmark DevelopersBUILDER0,4,Villa,Kollur,Hyderabad,4455,10887,4.85,Under Construction,BUILDER
+160,Greenmark DevelopersBUILDER0,5,Villa,Kollur,Hyderabad,5111,12150,6.2,Under Construction,BUILDER
+161,Greenmark DevelopersBUILDER0,5,Villa,Kollur,Hyderabad,5111,12150,6.2,Under Construction,BUILDER
+162,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1842,9904,1.82,Ready to move,BUILDER
+163,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1770,9900,1.75,Ready to move,BUILDER
+164,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1801,9905,1.78,Ready to move,BUILDER
+165,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1686,9905,1.66,Ready to move,BUILDER
+166,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1297,9907,1.28,Ready to move,BUILDER
+167,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,2509,9900,2.48,Ready to move,BUILDER
+168,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,2491,9903,2.46,Ready to move,BUILDER
+169,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1882,9905,1.86,Ready to move,BUILDER
+170,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,2224,9900,2.2,Ready to move,BUILDER
+171,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1766,9905,1.74,Ready to move,BUILDER
+172,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1632,9900,1.61,Ready to move,BUILDER
+173,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,2235,9900,2.21,Ready to move,BUILDER
+174,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1906,9905,1.88,Ready to move,BUILDER
+175,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,2229,9904,2.2,Ready to move,BUILDER
+176,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1852,9904,1.83,Ready to move,BUILDER
+177,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1922,9900,1.9,Ready to move,BUILDER
+178,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,2451,9900,2.42,Ready to move,BUILDER
+179,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1941,9904,1.92,Ready to move,BUILDER
+180,GHR InfraBUILDER0,3,Apartment,Kondapur,Hyderabad,1992,9900,1.97,Ready to move,BUILDER
+181,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,2000,6500,1.3,Under Construction,BUILDER
+182,Risinia BuildersBUILDER0,3,Apartment,Bachupally,Hyderabad,1900,6500,1.23,Under Construction,BUILDER
+183,Risinia BuildersBUILDER0,2,Apartment,Bachupally,Hyderabad,1445,6500,0.9392,Under Construction,BUILDER
+184,Aavasa ConstructionsBUILDER0,3,Apartment,LB,Hyderabad,2175,7000,1.52,Ready to move,BUILDER
+185,Aavasa ConstructionsBUILDER0,3,Apartment,LB,Hyderabad,1945,7000,1.36,Ready to move,BUILDER
+186,Aavasa ConstructionsBUILDER0,2,Apartment,LB,Hyderabad,1195,7000,0.8365,Ready to move,BUILDER
+187,Aavasa ConstructionsBUILDER0,3,Apartment,LB,Hyderabad,1685,7000,1.17,Ready to move,BUILDER
+188,Aavasa ConstructionsBUILDER0,3,Apartment,LB,Hyderabad,1755,7000,1.22,Ready to move,BUILDER
+189,Aavasa ConstructionsBUILDER0,3,Apartment,LB,Hyderabad,2530,7000,1.77,Ready to move,BUILDER
+190,Aavasa ConstructionsBUILDER0,3,Apartment,LB,Hyderabad,2465,7000,1.72,Ready to move,BUILDER
+191,Aavasa ConstructionsBUILDER0,3,Apartment,LB,Hyderabad,2065,7000,1.44,Ready to move,BUILDER
+192,GHR InfraBUILDER0,2,Apartment,Kollur,Hyderabad,1295,5999,0.7768,Under Construction,BUILDER
+193,GHR InfraBUILDER0,2,Apartment,Kollur,Hyderabad,1195,5999,0.7168000000000001,Under Construction,BUILDER
+194,GHR InfraBUILDER0,2,Apartment,Kollur,Hyderabad,1195,5999,0.7168000000000001,Under Construction,BUILDER
+195,GHR InfraBUILDER0,3,Apartment,Kollur,Hyderabad,1625,5999,0.9748,Under Construction,BUILDER
+196,GHR InfraBUILDER0,3,Apartment,Kollur,Hyderabad,1625,5999,0.9748,Under Construction,BUILDER
+197,GHR InfraBUILDER0,3,Apartment,Kollur,Hyderabad,1430,5999,0.8578,Under Construction,BUILDER
+198,GHR InfraBUILDER0,3,Apartment,Kollur,Hyderabad,1430,5999,0.8578,Under Construction,BUILDER
+199,Theme Ambience InfrastructuresBUILDER0,3,Apartment,Attapur,Hyderabad,1845,7499,1.38,Under Construction,BUILDER
+200,Theme Ambience InfrastructuresBUILDER0,3,Apartment,Attapur,Hyderabad,2250,7499,1.68,Under Construction,BUILDER
+201,Theme Ambience InfrastructuresBUILDER0,3,Apartment,Attapur,Hyderabad,2075,7499,1.55,Under Construction,BUILDER
+202,GK Builders DevelopersBUILDER0,2,Apartment,Yapral,Hyderabad,1180,5407,0.638,Ready to move,BUILDER
+203,GK Builders DevelopersBUILDER0,3,Apartment,Yapral,Hyderabad,1750,5400,0.945,Ready to move,BUILDER
+204,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1711,7600,1.3,Under Construction,BUILDER
+205,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1940,7600,1.47,Under Construction,BUILDER
+206,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1940,7600,1.47,Under Construction,BUILDER
+207,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1985,7600,1.5,Under Construction,BUILDER
+208,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1985,7600,1.5,Under Construction,BUILDER
+209,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1620,7600,1.23,Under Construction,BUILDER
+210,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1620,7600,1.23,Under Construction,BUILDER
+211,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,2060,7600,1.56,Under Construction,BUILDER
+212,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,2060,7600,1.56,Under Construction,BUILDER
+213,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1688,7600,1.28,Under Construction,BUILDER
+214,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1688,7600,1.28,Under Construction,BUILDER
+215,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1590,7600,1.2,Under Construction,BUILDER
+216,Candeur Developers And BuildersBUILDER0,3,Apartment,Miyapur,Hyderabad,1590,7600,1.2,Under Construction,BUILDER
+217,M KartheekAGENT0,5,Apartment,Tellapur,Hyderabad,4945,7299,3.6,Under Construction,AGENT
+218,M KartheekAGENT0,5,Apartment,Tellapur,Hyderabad,5467,7299,3.99,Under Construction,AGENT
+219,M KartheekAGENT0,5,Apartment,Tellapur,Hyderabad,5962,7299,4.35,Under Construction,AGENT
+220,M KartheekAGENT0,4,Independent,Tellapur,Hyderabad,3569,7299,2.6,Under Construction,AGENT
+221,M KartheekAGENT0,3,Apartment,Tellapur,Hyderabad,1687,7299,1.23,Under Construction,AGENT
+222,M KartheekAGENT0,5,Apartment,Tellapur,Hyderabad,5783,7299,4.22,Under Construction,AGENT
+223,M KartheekAGENT0,3,Apartment,Tellapur,Hyderabad,2132,7299,1.55,Under Construction,AGENT
+224,M KartheekAGENT0,5,Apartment,Tellapur,Hyderabad,6374,7299,4.65,Under Construction,AGENT
+225,M KartheekAGENT0,5,Apartment,Tellapur,Hyderabad,6371,7299,4.65,Under Construction,AGENT
+226,M KartheekAGENT0,5,Apartment,Tellapur,Hyderabad,7674,7299,5.6,Under Construction,AGENT
+227,M KartheekAGENT0,4,Independent,Tellapur,Hyderabad,5036,7299,3.67,Under Construction,AGENT
+228,M KartheekAGENT0,3,Apartment,Tellapur,Hyderabad,1874,7299,1.36,Under Construction,AGENT
+229,M KartheekAGENT0,5,Apartment,Tellapur,Hyderabad,5303,7299,3.87,Under Construction,AGENT
+230,M KartheekAGENT0,3,Apartment,Tellapur,Hyderabad,2191,7299,1.59,Under Construction,AGENT
+231,M KartheekAGENT0,4,Independent,Tellapur,Hyderabad,3942,7299,2.87,Under Construction,AGENT
+232,M KartheekAGENT0,3,Apartment,Tellapur,Hyderabad,2208,7299,1.61,Under Construction,AGENT
+233,M KartheekAGENT0,5,Apartment,Tellapur,Hyderabad,4945,7299,3.6,Under Construction,AGENT
+234,M KartheekAGENT0,5,Apartment,Tellapur,Hyderabad,5467,7299,3.99,Under Construction,AGENT
+235,Merlion BuildersBUILDER0,3,Apartment,Nizampet,Hyderabad,1620,6000,0.972,Ready to move,BUILDER
+236,Merlion BuildersBUILDER0,2,Apartment,Nizampet,Hyderabad,1275,6001,0.7652,Ready to move,BUILDER
+237,Merlion BuildersBUILDER0,3,Apartment,Nizampet,Hyderabad,1853,6000,1.11,Ready to move,BUILDER
+238,BSCPL Infrastructure LtdBUILDER0,3,Apartment,Kondapur,Hyderabad,2290,13587,3.11,Ready to move,BUILDER
+239,BSCPL Infrastructure LtdBUILDER0,3,Apartment,Kondapur,Hyderabad,1840,12500,2.3,Ready to move,BUILDER
+240,BSCPL Infrastructure LtdBUILDER0,3,Apartment,Kondapur,Hyderabad,1840,12500,2.3,Ready to move,BUILDER
+241,BSCPL Infrastructure LtdBUILDER0,3,Apartment,Kondapur,Hyderabad,1855,13587,2.52,Ready to move,BUILDER
+242,BSCPL Infrastructure LtdBUILDER0,3,Apartment,Kondapur,Hyderabad,1855,13587,2.52,Ready to move,BUILDER
+243,BSCPL Infrastructure LtdBUILDER0,4,Apartment,Kondapur,Hyderabad,3350,13587,4.55,Ready to move,BUILDER
+244,BSCPL Infrastructure LtdBUILDER0,4,Apartment,Kondapur,Hyderabad,3350,13587,4.55,Ready to move,BUILDER
+245,Hallmark BuildersBUILDER0,3,Apartment,Gandipet,Hyderabad,2040,9000,1.83,Under Construction,BUILDER
+246,Hallmark BuildersBUILDER0,3,Apartment,Gandipet,Hyderabad,2040,9000,1.83,Under Construction,BUILDER
+247,Hallmark BuildersBUILDER0,3,Apartment,Gandipet,Hyderabad,2540,9000,2.28,Under Construction,BUILDER
+248,Hallmark BuildersBUILDER0,3,Apartment,Gandipet,Hyderabad,2540,9000,2.28,Under Construction,BUILDER
+249,Hallmark BuildersBUILDER0,3,Apartment,Gandipet,Hyderabad,1765,9000,1.58,Under Construction,BUILDER
+250,Hallmark BuildersBUILDER0,3,Apartment,Gandipet,Hyderabad,1765,9000,1.58,Under Construction,BUILDER
+251,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1995,8002,1.59,Ready to move,BUILDER
+252,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1910,7999,1.52,Ready to move,BUILDER
+253,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1650,7999,1.31,Ready to move,BUILDER
+254,Hallmark BuildersBUILDER0,2,Apartment,Manchirevula,Hyderabad,1250,7999,0.9998,Ready to move,BUILDER
+255,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1686,8003,1.34,Ready to move,BUILDER
+256,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1885,7999,1.5,Ready to move,BUILDER
+257,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1600,8003,1.27,Ready to move,BUILDER
+258,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1750,7999,1.39,Ready to move,BUILDER
+259,Hallmark BuildersBUILDER0,2,Apartment,Manchirevula,Hyderabad,1210,7999,0.9678,Ready to move,BUILDER
+260,Hallmark BuildersBUILDER0,2,Apartment,Manchirevula,Hyderabad,1190,8005,0.9518000000000001,Ready to move,BUILDER
+261,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1845,8003,1.47,Ready to move,BUILDER
+262,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1717,7999,1.37,Ready to move,BUILDER
+263,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1345,8004,1.07,Ready to move,BUILDER
+264,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1853,7999,1.48,Ready to move,BUILDER
+265,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1930,8003,1.54,Ready to move,BUILDER
+266,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1845,7999,1.47,Ready to move,BUILDER
+267,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1910,8002,1.52,Ready to move,BUILDER
+268,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1825,7999,1.45,Ready to move,BUILDER
+269,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1818,7999,1.45,Ready to move,BUILDER
+270,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1687,7999,1.34,Ready to move,BUILDER
+271,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1955,7999,1.56,Ready to move,BUILDER
+272,Hallmark BuildersBUILDER0,2,Apartment,Manchirevula,Hyderabad,1290,7999,1.03,Ready to move,BUILDER
+273,Hallmark BuildersBUILDER0,2,Apartment,Manchirevula,Hyderabad,1225,7999,0.9799,Ready to move,BUILDER
+274,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1655,8003,1.32,Ready to move,BUILDER
+275,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,2050,7999,1.63,Ready to move,BUILDER
+276,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,2047,7999,1.63,Ready to move,BUILDER
+277,Hallmark BuildersBUILDER0,2,Apartment,Manchirevula,Hyderabad,1255,7999,1.0,Ready to move,BUILDER
+278,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,2063,7999,1.65,Ready to move,BUILDER
+279,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1528,7999,1.22,Ready to move,BUILDER
+280,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,2228,7999,1.78,Ready to move,BUILDER
+281,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1930,7999,1.54,Ready to move,BUILDER
+282,Hallmark BuildersBUILDER0,3,Apartment,Manchirevula,Hyderabad,1528,8003,1.22,Ready to move,BUILDER
+283,Hallmark BuildersBUILDER0,3,Apartment,Patighanpur,Hyderabad,1885,5803,1.09,Under Construction,BUILDER
+284,Hallmark BuildersBUILDER0,3,Apartment,Patighanpur,Hyderabad,1885,5803,1.09,Under Construction,BUILDER
+285,Hallmark BuildersBUILDER0,2,Apartment,Patighanpur,Hyderabad,1285,5800,0.7453,Under Construction,BUILDER
+286,Hallmark BuildersBUILDER0,2,Apartment,Patighanpur,Hyderabad,1285,5800,0.7453,Under Construction,BUILDER
+287,Hallmark BuildersBUILDER0,3,Apartment,Patighanpur,Hyderabad,1585,5800,0.9193000000000001,Under Construction,BUILDER
+288,Hallmark BuildersBUILDER0,3,Apartment,Patighanpur,Hyderabad,1585,5800,0.9193000000000001,Under Construction,BUILDER
+289,Hallmark BuildersBUILDER0,3,Apartment,Patighanpur,Hyderabad,1700,5800,0.986,Under Construction,BUILDER
+290,Hallmark BuildersBUILDER0,3,Apartment,Patighanpur,Hyderabad,1700,5800,0.986,Under Construction,BUILDER
+291,Ashoka Builders India Private LimitedBUILDER0,2,Apartment,Pocharam,Hyderabad,1210,4999,0.6048,Under Construction,BUILDER
+292,Ashoka Builders India Private LimitedBUILDER0,2,Apartment,Pocharam,Hyderabad,1210,4999,0.6048,Under Construction,BUILDER
+293,Ashoka Builders India Private LimitedBUILDER0,2,Apartment,Pocharam,Hyderabad,1210,4999,0.6048,Under Construction,BUILDER
+294,Ashoka Builders India Private LimitedBUILDER0,2,Apartment,Pocharam,Hyderabad,1210,4999,0.6048,Under Construction,BUILDER
+295,Ashoka Builders India Private LimitedBUILDER0,3,Apartment,Pocharam,Hyderabad,1475,4999,0.7373000000000001,Under Construction,BUILDER
+296,Ashoka Builders India Private LimitedBUILDER0,3,Apartment,Pocharam,Hyderabad,1475,4999,0.7373000000000001,Under Construction,BUILDER
+297,Vajra Builders And DevelopersBUILDER0,5,Villa,Dundigal,Hyderabad,2624,6500,1.7,Under Construction,BUILDER
+298,Vajra Builders And DevelopersBUILDER0,5,Villa,Dundigal,Hyderabad,3209,6500,2.08,Under Construction,BUILDER
+299,Vajra Builders And DevelopersBUILDER0,5,Villa,Dundigal,Hyderabad,3209,6500,2.08,Under Construction,BUILDER
+300,Vajra Builders And DevelopersBUILDER0,5,Villa,Dundigal,Hyderabad,2675,6500,1.73,Under Construction,BUILDER
+301,Vajra Builders And DevelopersBUILDER0,5,Villa,Dundigal,Hyderabad,2675,6500,1.73,Under Construction,BUILDER
+302,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1975,5950,1.17,Under Construction,BUILDER
+303,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1910,5950,1.13,Under Construction,BUILDER
+304,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1910,5950,1.13,Under Construction,BUILDER
+305,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2040,5950,1.21,Under Construction,BUILDER
+306,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2040,5950,1.21,Under Construction,BUILDER
+307,Riddhi GroupBUILDER0,4,Apartment,Jeedimetla,Hyderabad,2910,5950,1.73,Under Construction,BUILDER
+308,Riddhi GroupBUILDER0,4,Apartment,Jeedimetla,Hyderabad,2910,5950,1.73,Under Construction,BUILDER
+309,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1980,5950,1.17,Under Construction,BUILDER
+310,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1980,5950,1.17,Under Construction,BUILDER
+311,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2030,5950,1.2,Under Construction,BUILDER
+312,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2030,5950,1.2,Under Construction,BUILDER
+313,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1830,5950,1.08,Under Construction,BUILDER
+314,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1830,5950,1.08,Under Construction,BUILDER
+315,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2080,5950,1.23,Under Construction,BUILDER
+316,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2080,5950,1.23,Under Construction,BUILDER
+317,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2495,5950,1.48,Under Construction,BUILDER
+318,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2495,5950,1.48,Under Construction,BUILDER
+319,Riddhi GroupBUILDER0,4,Apartment,Jeedimetla,Hyderabad,3030,5950,1.8,Under Construction,BUILDER
+320,Riddhi GroupBUILDER0,4,Apartment,Jeedimetla,Hyderabad,3030,5950,1.8,Under Construction,BUILDER
+321,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1915,5950,1.13,Under Construction,BUILDER
+322,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1915,5950,1.13,Under Construction,BUILDER
+323,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2590,5950,1.54,Under Construction,BUILDER
+324,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2590,5950,1.54,Under Construction,BUILDER
+325,Riddhi GroupBUILDER0,4,Apartment,Jeedimetla,Hyderabad,3150,5950,1.87,Under Construction,BUILDER
+326,Riddhi GroupBUILDER0,4,Apartment,Jeedimetla,Hyderabad,3150,5950,1.87,Under Construction,BUILDER
+327,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2200,5950,1.3,Under Construction,BUILDER
+328,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,2200,5950,1.3,Under Construction,BUILDER
+329,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1865,5950,1.1,Under Construction,BUILDER
+330,Riddhi GroupBUILDER0,3,Apartment,Jeedimetla,Hyderabad,1865,5950,1.1,Under Construction,BUILDER
+331,Risinia BuildersBUILDER0,3,Apartment,Pragathi,Hyderabad,1843,5599,1.03,Under Construction,BUILDER
+332,Risinia BuildersBUILDER0,3,Apartment,Pragathi,Hyderabad,1711,5599,0.9579000000000001,Under Construction,BUILDER
+333,Risinia BuildersBUILDER0,3,Apartment,Pragathi,Hyderabad,1960,5599,1.09,Under Construction,BUILDER
+334,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,1510,5055,0.7633,Under Construction,BUILDER
+335,Maram Infra Projects PvtLtdBUILDER0,2,Apartment,Pocharam,Hyderabad,1305,5055,0.6596,Under Construction,BUILDER
+336,Maram Infra Projects PvtLtdBUILDER0,2,Apartment,Pocharam,Hyderabad,1305,5055,0.6596,Under Construction,BUILDER
+337,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,1710,5055,0.8644,Under Construction,BUILDER
+338,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,2315,5055,1.17,Under Construction,BUILDER
+339,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,1710,5055,0.8644,Under Construction,BUILDER
+340,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,2315,5055,1.17,Under Construction,BUILDER
+341,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,2314,5055,1.16,Under Construction,BUILDER
+342,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,2314,5055,1.16,Under Construction,BUILDER
+343,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,2115,5055,1.06,Under Construction,BUILDER
+344,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,2115,5055,1.06,Under Construction,BUILDER
+345,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,1915,5055,0.968,Under Construction,BUILDER
+346,Maram Infra Projects PvtLtdBUILDER0,3,Apartment,Pocharam,Hyderabad,1915,5055,0.968,Under Construction,BUILDER
+347,Maram Infra Projects PvtLtdBUILDER0,2,Apartment,Pocharam,Hyderabad,1170,5055,0.5914,Under Construction,BUILDER
+348,Maram Infra Projects PvtLtdBUILDER0,2,Apartment,Pocharam,Hyderabad,1170,5055,0.5914,Under Construction,BUILDER
+349,Anuhar Homes Pvt LtdBUILDER0,3,Apartment,Miyapur,Hyderabad,1932,6500,1.25,Ready to move,BUILDER
+350,Anuhar Homes Pvt LtdBUILDER0,2,Apartment,Miyapur,Hyderabad,1551,6500,1.0,Ready to move,BUILDER
+351,Anuhar Homes Pvt LtdBUILDER0,3,Apartment,Miyapur,Hyderabad,1676,6500,1.08,Ready to move,BUILDER
+352,Anuhar Homes Pvt LtdBUILDER0,2,Apartment,Miyapur,Hyderabad,1449,6500,0.9418000000000001,Ready to move,BUILDER
+353,Anuhar Homes Pvt LtdBUILDER0,2,Apartment,Miyapur,Hyderabad,1449,6500,0.9418000000000001,Ready to move,BUILDER
+354,Anuhar Homes Pvt LtdBUILDER0,2,Apartment,Miyapur,Hyderabad,1365,6500,0.8872,Ready to move,BUILDER
+355,Anuhar Homes Pvt LtdBUILDER0,2,Apartment,Miyapur,Hyderabad,1365,6500,0.8872,Ready to move,BUILDER
+356,Anuhar Homes Pvt LtdBUILDER0,2,Apartment,Miyapur,Hyderabad,1296,6500,0.8423999999999999,Ready to move,BUILDER
+357,Anuhar Homes Pvt LtdBUILDER0,2,Apartment,Miyapur,Hyderabad,1296,6500,0.8423999999999999,Ready to move,BUILDER
+358,Salarpuria SattvaBUILDER0,3,Apartment,Kokapet,Hyderabad,2744,12250,3.36,Under Construction,BUILDER
+359,Salarpuria SattvaBUILDER0,3,Apartment,Kokapet,Hyderabad,2744,12250,3.36,Under Construction,BUILDER
+360,Salarpuria SattvaBUILDER0,3,Apartment,Kokapet,Hyderabad,2152,12333,2.65,Under Construction,BUILDER
+361,Salarpuria SattvaBUILDER0,3,Apartment,Kokapet,Hyderabad,2152,12333,2.65,Under Construction,BUILDER
+362,Salarpuria SattvaBUILDER0,5,Apartment,Kokapet,Hyderabad,5472,13745,7.52,Under Construction,BUILDER
+363,Salarpuria SattvaBUILDER0,5,Apartment,Kokapet,Hyderabad,5472,13745,7.52,Under Construction,BUILDER
+364,Salarpuria SattvaBUILDER0,4,Apartment,Kokapet,Hyderabad,3036,12353,3.75,Under Construction,BUILDER
+365,Salarpuria SattvaBUILDER0,4,Apartment,Kokapet,Hyderabad,3036,12353,3.75,Under Construction,BUILDER
+366,Salarpuria SattvaBUILDER0,5,Apartment,Kokapet,Hyderabad,5266,13757,7.24,Under Construction,BUILDER
+367,Salarpuria SattvaBUILDER0,5,Apartment,Kokapet,Hyderabad,5266,13757,7.24,Under Construction,BUILDER
+368,Salarpuria SattvaBUILDER0,4,Apartment,Kokapet,Hyderabad,4187,12841,5.37,Under Construction,BUILDER
+369,Salarpuria SattvaBUILDER0,4,Apartment,Kokapet,Hyderabad,4187,12841,5.37,Under Construction,BUILDER
+370,Salarpuria SattvaBUILDER0,2,Apartment,Shaikpet,Hyderabad,1495,9640,1.44,Ready to move,BUILDER
+371,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2300,10540,2.42,Ready to move,BUILDER
+372,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2300,10540,2.42,Ready to move,BUILDER
+373,Salarpuria SattvaBUILDER0,4,Apartment,Shaikpet,Hyderabad,2965,10540,3.12,Ready to move,BUILDER
+374,Salarpuria SattvaBUILDER0,4,Apartment,Shaikpet,Hyderabad,2965,10540,3.12,Ready to move,BUILDER
+375,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2245,9640,2.16,Ready to move,BUILDER
+376,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2245,9640,2.16,Ready to move,BUILDER
+377,Salarpuria SattvaBUILDER0,4,Apartment,Shaikpet,Hyderabad,2960,10540,3.11,Ready to move,BUILDER
+378,Salarpuria SattvaBUILDER0,4,Apartment,Shaikpet,Hyderabad,2960,10540,3.11,Ready to move,BUILDER
+379,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2260,10540,2.38,Ready to move,BUILDER
+380,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2260,10540,2.38,Ready to move,BUILDER
+381,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2265,9600,2.17,Ready to move,BUILDER
+382,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2265,9600,2.17,Ready to move,BUILDER
+383,Salarpuria SattvaBUILDER0,2,Apartment,Shaikpet,Hyderabad,1300,9600,1.24,Ready to move,BUILDER
+384,Salarpuria SattvaBUILDER0,2,Apartment,Shaikpet,Hyderabad,1300,9600,1.24,Ready to move,BUILDER
+385,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2275,10540,2.39,Ready to move,BUILDER
+386,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2275,10540,2.39,Ready to move,BUILDER
+387,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2575,9640,2.48,Ready to move,BUILDER
+388,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,2575,9640,2.48,Ready to move,BUILDER
+389,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,1870,9600,1.79,Ready to move,BUILDER
+390,Salarpuria SattvaBUILDER0,3,Apartment,Shaikpet,Hyderabad,1870,9600,1.79,Ready to move,BUILDER
+391,Salarpuria SattvaBUILDER0,2,Apartment,Shaikpet,Hyderabad,1220,9600,1.17,Ready to move,BUILDER
+392,Homes treasvreAGENT4,2,Apartment,Andheri,Mumbai,774,5555,0.43,Ready to move,AGENT
+393,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Thane,Mumbai,680,8400,0.5711999999999999,Under Construction, â§ AGENT
+394,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,896,8400,0.7526,Under Construction, â§ AGENT
+395,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,947,8400,0.7954000000000001,Under Construction, â§ AGENT
+396,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1011,8400,0.8492000000000001,Under Construction, â§ AGENT
+397,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1157,8400,0.9718000000000001,Under Construction, â§ AGENT
+398,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1224,8400,1.02,Under Construction, â§ AGENT
+399,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,663,14615,1.37,Under Construction, â§ AGENT
+400,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1324,14316,2.68,Under Construction, â§ AGENT
+401,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Thane,Mumbai,450,12656,0.82,Under Construction, â§ AGENT
+402,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,598,14072,1.19,Under Construction, â§ AGENT
+403,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1150,14413,2.34,Under Construction, â§ AGENT
+404,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,761,14409,1.55,Under Construction, â§ AGENT
+405,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,808,14307,1.64,Under Construction, â§ AGENT
+406,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,632,14525,1.3,Under Construction, â§ AGENT
+407,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1434,8400,1.2,Under Construction, â§ AGENT
+408,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1499,8400,1.25,Under Construction, â§ AGENT
+409,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1677,8400,1.4,Under Construction, â§ AGENT
+410,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,2032,8400,1.7,Under Construction, â§ AGENT
+411,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Thane,Mumbai,1686,8400,4.04,Under Construction, â§ AGENT
+412,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,944,14587,1.95,Under Construction, â§ AGENT
+413,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,991,14495,2.03,Under Construction, â§ AGENT
+414,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Thane,Mumbai,1753,16147,3.96,Under Construction, â§ AGENT
+415,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Panvel,Mumbai,1458,10085,1.46,Under Construction, â§ AGENT
+416,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Panvel,Mumbai,1609,9444,1.51,Under Construction, â§ AGENT
+417,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Panvel,Mumbai,1636,9350,1.53,Under Construction, â§ AGENT
+418,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Panvel,Mumbai,1335,9666,1.29,Under Construction, â§ AGENT
+419,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Panvel,Mumbai,1272,13481,1.71,Under Construction, â§ AGENT
+420,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Panvel,Mumbai,1292,13457,1.73,Under Construction, â§ AGENT
+421,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Panvel,Mumbai,1582,13593,2.15,Under Construction, â§ AGENT
+422,ProptigerCity Expert â§ AGENT4.81 Rating,6,Apartment,Panvel,Mumbai,2602,15094,3.92,Under Construction, â§ AGENT
+423,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Panvel,Mumbai,1789,9275,2.02,Under Construction, â§ AGENT
+424,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Panvel,Mumbai,1857,9257,2.12,Under Construction, â§ AGENT
+425,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Panvel,Mumbai,1862,9287,2.12,Under Construction, â§ AGENT
+426,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kandivali,Mumbai,765,25748,1.96,Under Construction, â§ AGENT
+427,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kandivali,Mumbai,1114,25748,2.86,Under Construction, â§ AGENT
+428,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kandivali,Mumbai,602,25748,1.55,Under Construction, â§ AGENT
+429,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kandivali,Mumbai,1055,25748,2.71,Under Construction, â§ AGENT
+430,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kandivali,Mumbai,624,23922,1.49,Under Construction, â§ AGENT
+431,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kandivali,Mumbai,906,23922,2.16,Under Construction, â§ AGENT
+432,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kandivali,Mumbai,1109,23922,2.65,Under Construction, â§ AGENT
+433,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kandivali,Mumbai,1097,21775,2.38,Under Construction, â§ AGENT
+434,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,750,11900,0.8925,Under Construction, â§ AGENT
+435,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,740,11900,0.8806,Under Construction, â§ AGENT
+436,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,732,11900,0.871,Under Construction, â§ AGENT
+437,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,711,11900,0.846,Under Construction, â§ AGENT
+438,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,430,25000,1.08,Under Construction, â§ AGENT
+439,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,449,25000,1.12,Under Construction, â§ AGENT
+440,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,448,25000,1.12,Under Construction, â§ AGENT
+441,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,446,20965,0.9349,Under Construction, â§ AGENT
+442,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,418,25000,1.04,Under Construction, â§ AGENT
+443,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,446,25000,1.12,Under Construction, â§ AGENT
+444,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,835,11900,0.9936,Under Construction, â§ AGENT
+445,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,693,11900,0.8245999999999999,Under Construction, â§ AGENT
+446,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,1244,11900,1.48,Under Construction, â§ AGENT
+447,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,1219,11900,1.45,Under Construction, â§ AGENT
+448,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,1183,11900,1.4,Under Construction, â§ AGENT
+449,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,1178,11900,1.4,Under Construction, â§ AGENT
+450,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,1115,11900,1.32,Under Construction, â§ AGENT
+451,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,729,11900,0.8675,Under Construction, â§ AGENT
+452,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,709,11900,0.8437,Under Construction, â§ AGENT
+453,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,737,11900,0.877,Under Construction, â§ AGENT
+454,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,747,11900,0.8889,Under Construction, â§ AGENT
+455,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,1135,11900,1.35,Under Construction, â§ AGENT
+456,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,1211,11900,1.44,Under Construction, â§ AGENT
+457,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,1235,11900,1.46,Under Construction, â§ AGENT
+458,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,1232,11900,1.46,Under Construction, â§ AGENT
+459,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,450,25000,1.13,Under Construction, â§ AGENT
+460,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,454,25000,1.14,Under Construction, â§ AGENT
+461,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,455,25000,1.14,Under Construction, â§ AGENT
+462,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanjurmarg,Mumbai,510,25000,1.28,Under Construction, â§ AGENT
+463,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,700,25000,1.94,Under Construction, â§ AGENT
+464,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,750,25000,2.07,Under Construction, â§ AGENT
+465,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,757,25000,2.09,Under Construction, â§ AGENT
+466,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,759,25000,2.1,Under Construction, â§ AGENT
+467,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanjurmarg,Mumbai,733,25000,2.03,Under Construction, â§ AGENT
+468,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanjurmarg,Mumbai,839,25000,2.2,Under Construction, â§ AGENT
+469,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanjurmarg,Mumbai,1337,11900,1.59,Under Construction, â§ AGENT
+470,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanjurmarg,Mumbai,1376,11900,1.63,Under Construction, â§ AGENT
+471,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanjurmarg,Mumbai,1531,11900,1.82,Under Construction, â§ AGENT
+472,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanjurmarg,Mumbai,1574,11900,1.87,Under Construction, â§ AGENT
+473,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanjurmarg,Mumbai,1380,11900,1.64,Under Construction, â§ AGENT
+474,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanjurmarg,Mumbai,959,25000,2.52,Under Construction, â§ AGENT
+475,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Panvel,Mumbai,475,8826,0.5999,Under Construction, â§ AGENT
+476,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Panvel,Mumbai,602,10066,0.606,Under Construction, â§ AGENT
+477,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Panvel,Mumbai,733,9907,0.726,Under Construction, â§ AGENT
+478,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Panvel,Mumbai,1070,9717,1.04,Under Construction, â§ AGENT
+479,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Panvel,Mumbai,742,10186,0.7559999999999999,Under Construction, â§ AGENT
+480,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Panvel,Mumbai,767,10263,0.787,Under Construction, â§ AGENT
+481,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Panvel,Mumbai,1250,13723,1.71,Under Construction, â§ AGENT
+482,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Panvel,Mumbai,557,6715,0.44,Under Construction, â§ AGENT
+483,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Panvel,Mumbai,699,6810,0.56,Under Construction, â§ AGENT
+484,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Panvel,Mumbai,851,9982,0.9704,Under Construction, â§ AGENT
+485,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Panvel,Mumbai,887,10030,1.03,Under Construction, â§ AGENT
+486,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Panvel,Mumbai,928,9912,1.06,Under Construction, â§ AGENT
+487,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Panvel,Mumbai,1249,9604,1.4,Under Construction, â§ AGENT
+488,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Thane,Mumbai,994,15629,1.55,Under Construction, â§ AGENT
+489,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Thane,Mumbai,833,15629,1.3,Under Construction, â§ AGENT
+490,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Thane,Mumbai,763,15629,1.19,Under Construction, â§ AGENT
+491,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1004,15629,1.56,Under Construction, â§ AGENT
+492,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1008,15629,1.57,Under Construction, â§ AGENT
+493,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1010,15629,1.57,Under Construction, â§ AGENT
+494,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1012,15629,1.58,Under Construction, â§ AGENT
+495,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1013,15629,1.58,Under Construction, â§ AGENT
+496,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1015,14655,1.75,Under Construction, â§ AGENT
+497,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1019,15629,1.59,Under Construction, â§ AGENT
+498,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1020,15629,1.59,Under Construction, â§ AGENT
+499,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1022,15629,1.59,Under Construction, â§ AGENT
+500,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1026,15629,1.6,Under Construction, â§ AGENT
+501,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1028,15629,1.6,Under Construction, â§ AGENT
+502,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1029,15629,1.6,Under Construction, â§ AGENT
+503,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1034,15629,1.61,Under Construction, â§ AGENT
+504,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1041,17055,1.77,Under Construction, â§ AGENT
+505,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1044,17055,1.78,Under Construction, â§ AGENT
+506,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1120,17055,1.91,Under Construction, â§ AGENT
+507,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1146,17055,1.95,Under Construction, â§ AGENT
+508,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1015,14655,1.74,Under Construction, â§ AGENT
+509,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1006,13688,1.62,Under Construction, â§ AGENT
+510,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1014,14955,1.78,Under Construction, â§ AGENT
+511,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1050,13688,1.69,Under Construction, â§ AGENT
+512,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,824,9990,0.8231,Under Construction, â§ AGENT
+513,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1447,9990,1.44,Under Construction, â§ AGENT
+514,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1528,9990,1.52,Under Construction, â§ AGENT
+515,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,2045,10500,2.14,Under Construction, â§ AGENT
+516,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1519,9990,1.51,Under Construction, â§ AGENT
+517,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1576,9990,1.57,Under Construction, â§ AGENT
+518,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1643,9990,1.64,Under Construction, â§ AGENT
+519,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1713,9990,1.71,Under Construction, â§ AGENT
+520,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1516,9990,1.51,Under Construction, â§ AGENT
+521,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,906,15989,1.44,Under Construction, â§ AGENT
+522,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,931,15768,1.46,Under Construction, â§ AGENT
+523,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,933,15734,1.46,Under Construction, â§ AGENT
+524,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,936,15734,1.47,Under Construction, â§ AGENT
+525,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,938,15734,1.47,Under Construction, â§ AGENT
+526,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,942,15734,1.48,Under Construction, â§ AGENT
+527,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,943,15734,1.48,Under Construction, â§ AGENT
+528,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,992,15536,1.54,Under Construction, â§ AGENT
+529,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,999,15536,1.55,Under Construction, â§ AGENT
+530,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1223,18697,2.28,Under Construction, â§ AGENT
+531,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1256,18192,2.28,Under Construction, â§ AGENT
+532,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1260,18192,2.29,Under Construction, â§ AGENT
+533,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thane,Mumbai,1140,13496,1.81,Under Construction, â§ AGENT
+534,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1366,14436,2.32,Under Construction, â§ AGENT
+535,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1207,14930,2.12,Under Construction, â§ AGENT
+536,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1293,14200,2.16,Under Construction, â§ AGENT
+537,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thane,Mumbai,1908,10500,2.0,Under Construction, â§ AGENT
+538,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,464,22005,1.02,Under Construction, â§ AGENT
+539,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,469,22005,1.03,Under Construction, â§ AGENT
+540,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,520,22005,1.14,Under Construction, â§ AGENT
+541,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,481,22005,1.05,Under Construction, â§ AGENT
+542,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,548,22005,1.2,Under Construction, â§ AGENT
+543,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,526,22005,1.15,Under Construction, â§ AGENT
+544,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,470,22005,1.03,Under Construction, â§ AGENT
+545,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,475,22005,1.04,Under Construction, â§ AGENT
+546,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,480,22005,1.05,Under Construction, â§ AGENT
+547,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,515,22005,1.13,Under Construction, â§ AGENT
+548,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,522,22005,1.14,Under Construction, â§ AGENT
+549,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,475,22005,1.04,Under Construction, â§ AGENT
+550,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,501,22005,1.1,Under Construction, â§ AGENT
+551,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,560,22005,1.23,Under Construction, â§ AGENT
+552,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,699,22613,1.58,Under Construction, â§ AGENT
+553,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,710,22613,1.6,Under Construction, â§ AGENT
+554,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,723,22613,1.63,Under Construction, â§ AGENT
+555,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,711,22613,1.6,Under Construction, â§ AGENT
+556,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,653,22613,1.47,Under Construction, â§ AGENT
+557,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,704,22613,1.59,Under Construction, â§ AGENT
+558,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,705,22613,1.59,Under Construction, â§ AGENT
+559,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,656,22613,1.48,Under Construction, â§ AGENT
+560,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,692,22613,1.56,Under Construction, â§ AGENT
+561,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,480,22005,1.83,Under Construction, â§ AGENT
+562,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,503,22005,1.91,Under Construction, â§ AGENT
+563,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,476,33036,1.85,Under Construction, â§ AGENT
+564,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vikhroli,Mumbai,495,36061,2.1,Under Construction, â§ AGENT
+565,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,1044,22883,2.38,Under Construction, â§ AGENT
+566,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,875,22883,2.0,Under Construction, â§ AGENT
+567,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,815,22613,1.84,Under Construction, â§ AGENT
+568,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,997,22883,2.28,Under Construction, â§ AGENT
+569,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,882,22883,2.01,Under Construction, â§ AGENT
+570,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,1591,22883,3.64,Under Construction, â§ AGENT
+571,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,1018,22883,2.33,Under Construction, â§ AGENT
+572,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,1050,22883,2.4,Under Construction, â§ AGENT
+573,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,1039,22883,2.37,Under Construction, â§ AGENT
+574,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,1061,22883,2.42,Under Construction, â§ AGENT
+575,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,1292,22883,2.95,Under Construction, â§ AGENT
+576,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,1315,22883,3.0,Under Construction, â§ AGENT
+577,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,1486,22883,3.39,Under Construction, â§ AGENT
+578,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,816,22613,1.84,Under Construction, â§ AGENT
+579,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,834,22613,1.88,Under Construction, â§ AGENT
+580,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,828,22883,1.89,Under Construction, â§ AGENT
+581,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,839,22883,1.92,Under Construction, â§ AGENT
+582,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,840,22883,1.92,Under Construction, â§ AGENT
+583,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,857,22883,1.96,Under Construction, â§ AGENT
+584,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,794,22613,2.83,Under Construction, â§ AGENT
+585,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vikhroli,Mumbai,922,22613,3.3,Under Construction, â§ AGENT
+586,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,1092,22883,4.36,Under Construction, â§ AGENT
+587,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,1122,22883,4.26,Under Construction, â§ AGENT
+588,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,961,38033,4.3,Under Construction, â§ AGENT
+589,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vikhroli,Mumbai,1136,35092,4.69,Under Construction, â§ AGENT
+590,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,1257,31000,3.89,Under Construction, â§ AGENT
+591,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,1300,31000,4.03,Under Construction, â§ AGENT
+592,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,1436,31000,4.45,Under Construction, â§ AGENT
+593,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,2179,22883,4.98,Under Construction, â§ AGENT
+594,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,1194,31000,3.7,Under Construction, â§ AGENT
+595,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,1177,31000,3.64,Under Construction, â§ AGENT
+596,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,1291,31000,4.0,Under Construction, â§ AGENT
+597,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,1690,22883,3.86,Under Construction, â§ AGENT
+598,ProptigerCity Expert â§ AGENT4.81 Rating,5,Apartment,Vikhroli,Mumbai,1554,22883,3.55,Under Construction, â§ AGENT
+599,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,2142,22883,4.9,Under Construction, â§ AGENT
+600,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,2081,22883,4.76,Under Construction, â§ AGENT
+601,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,2217,22883,5.07,Under Construction, â§ AGENT
+602,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,2231,22883,5.1,Under Construction, â§ AGENT
+603,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,2241,22883,5.12,Under Construction, â§ AGENT
+604,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,2251,22883,5.15,Under Construction, â§ AGENT
+605,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Vikhroli,Mumbai,2291,22883,5.24,Under Construction, â§ AGENT
+606,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Bandra,Mumbai,570,49000,2.79,Under Construction, â§ AGENT
+607,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Bandra,Mumbai,620,49000,3.03,Under Construction, â§ AGENT
+608,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,741,49000,3.62,Under Construction, â§ AGENT
+609,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,742,49000,3.63,Under Construction, â§ AGENT
+610,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,773,49000,3.78,Under Construction, â§ AGENT
+611,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,826,49000,4.04,Under Construction, â§ AGENT
+612,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,898,49000,4.4,Under Construction, â§ AGENT
+613,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,952,49000,4.66,Under Construction, â§ AGENT
+614,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,971,49000,4.75,Under Construction, â§ AGENT
+615,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Bandra,Mumbai,1438,31000,4.45,Under Construction, â§ AGENT
+616,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1236,49000,6.05,Under Construction, â§ AGENT
+617,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1222,49000,5.99,Under Construction, â§ AGENT
+618,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1144,49000,5.6,Under Construction, â§ AGENT
+619,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1112,49000,5.44,Under Construction, â§ AGENT
+620,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1072,49000,5.25,Under Construction, â§ AGENT
+621,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1233,49000,6.04,Under Construction, â§ AGENT
+622,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1194,49000,5.84,Under Construction, â§ AGENT
+623,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1120,49000,5.48,Under Construction, â§ AGENT
+624,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1109,49000,5.43,Under Construction, â§ AGENT
+625,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1022,49000,5.0,Under Construction, â§ AGENT
+626,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1235,49000,6.05,Under Construction, â§ AGENT
+627,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1210,49000,5.92,Under Construction, â§ AGENT
+628,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1143,49000,5.59,Under Construction, â§ AGENT
+629,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1111,49000,5.44,Under Construction, â§ AGENT
+630,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1046,49000,5.12,Under Construction, â§ AGENT
+631,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1231,49000,6.03,Under Construction, â§ AGENT
+632,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1177,49000,5.76,Under Construction, â§ AGENT
+633,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1117,49000,5.47,Under Construction, â§ AGENT
+634,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1102,49000,5.39,Under Construction, â§ AGENT
+635,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1234,49000,6.04,Under Construction, â§ AGENT
+636,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1198,49000,5.87,Under Construction, â§ AGENT
+637,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1142,49000,5.59,Under Construction, â§ AGENT
+638,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1110,49000,5.43,Under Construction, â§ AGENT
+639,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1034,49000,5.06,Under Construction, â§ AGENT
+640,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1657,31000,5.13,Under Construction, â§ AGENT
+641,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1568,31000,4.86,Under Construction, â§ AGENT
+642,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1562,31000,4.84,Under Construction, â§ AGENT
+643,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1441,49000,7.06,Under Construction, â§ AGENT
+644,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1381,49000,6.76,Under Construction, â§ AGENT
+645,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1359,49000,6.65,Under Construction, â§ AGENT
+646,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1249,49000,6.12,Under Construction, â§ AGENT
+647,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,4459,49000,21.84,Under Construction, â§ AGENT
+648,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1386,49000,6.78,Under Construction, â§ AGENT
+649,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1371,49000,6.71,Under Construction, â§ AGENT
+650,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1329,49000,6.51,Under Construction, â§ AGENT
+651,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,980,49000,4.8,Under Construction, â§ AGENT
+652,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1439,49000,7.04,Under Construction, â§ AGENT
+653,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1376,49000,6.74,Under Construction, â§ AGENT
+654,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1342,49000,6.57,Under Construction, â§ AGENT
+655,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1247,49000,6.1,Under Construction, â§ AGENT
+656,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1471,49000,7.2,Under Construction, â§ AGENT
+657,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1383,48200,6.66,Under Construction, â§ AGENT
+658,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1362,49000,6.67,Under Construction, â§ AGENT
+659,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1327,49000,6.5,Under Construction, â§ AGENT
+660,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,939,49000,4.6,Under Construction, â§ AGENT
+661,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1415,49000,6.93,Under Construction, â§ AGENT
+662,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1372,49000,6.72,Under Construction, â§ AGENT
+663,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1330,49000,6.51,Under Construction, â§ AGENT
+664,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1471,49000,7.21,Under Construction, â§ AGENT
+665,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1768,31000,5.48,Under Construction, â§ AGENT
+666,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1954,31000,6.05,Under Construction, â§ AGENT
+667,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1865,31000,5.78,Under Construction, â§ AGENT
+668,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1958,31000,6.06,Under Construction, â§ AGENT
+669,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,2129,31000,6.59,Under Construction, â§ AGENT
+670,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,2142,31000,6.64,Under Construction, â§ AGENT
+671,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,2306,31000,7.14,Under Construction, â§ AGENT
+672,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,2145,31000,6.64,Under Construction, â§ AGENT
+673,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,2289,31000,7.09,Under Construction, â§ AGENT
+674,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,2124,31000,6.58,Under Construction, â§ AGENT
+675,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1952,31000,6.05,Under Construction, â§ AGENT
+676,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1763,31000,5.46,Under Construction, â§ AGENT
+677,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1770,31000,5.48,Under Construction, â§ AGENT
+678,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1900,31000,5.89,Under Construction, â§ AGENT
+679,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1939,31000,6.01,Under Construction, â§ AGENT
+680,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,2022,31000,6.26,Under Construction, â§ AGENT
+681,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1751,31000,5.42,Under Construction, â§ AGENT
+682,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1753,31000,5.43,Under Construction, â§ AGENT
+683,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1866,31000,5.78,Under Construction, â§ AGENT
+684,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Bandra,Mumbai,1720,31000,5.33,Under Construction, â§ AGENT
+685,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,1595,49000,7.81,Under Construction, â§ AGENT
+686,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,1649,49000,8.07,Under Construction, â§ AGENT
+687,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,1675,49000,8.2,Under Construction, â§ AGENT
+688,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,1607,49000,7.87,Under Construction, â§ AGENT
+689,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,1673,49000,8.19,Under Construction, â§ AGENT
+690,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,2660,31000,8.24,Under Construction, â§ AGENT
+691,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,3372,31000,10.45,Under Construction, â§ AGENT
+692,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,2652,31000,8.22,Under Construction, â§ AGENT
+693,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,3376,31000,10.46,Under Construction, â§ AGENT
+694,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,2152,49000,10.54,Under Construction, â§ AGENT
+695,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,1692,49000,8.29,Under Construction, â§ AGENT
+696,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,2245,49000,11.0,Under Construction, â§ AGENT
+697,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,1960,49000,9.6,Under Construction, â§ AGENT
+698,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,2112,49000,10.34,Under Construction, â§ AGENT
+699,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,2189,49000,10.72,Under Construction, â§ AGENT
+700,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,1693,49000,8.29,Under Construction, â§ AGENT
+701,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,3822,49000,18.73,Under Construction, â§ AGENT
+702,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Bandra,Mumbai,2105,49000,10.31,Under Construction, â§ AGENT
+703,ProptigerCity Expert â§ AGENT4.81 Rating,5,Apartment,Bandra,Mumbai,1961,49000,9.6,Under Construction, â§ AGENT
+704,ProptigerCity Expert â§ AGENT4.81 Rating,5,Apartment,Bandra,Mumbai,2617,49000,12.82,Under Construction, â§ AGENT
+705,ProptigerCity Expert â§ AGENT4.81 Rating,5,Apartment,Bandra,Mumbai,2311,49000,11.32,Under Construction, â§ AGENT
+706,ProptigerCity Expert â§ AGENT4.81 Rating,6,Apartment,Bandra,Mumbai,3300,49000,16.16,Under Construction, â§ AGENT
+707,ProptigerCity Expert â§ AGENT4.81 Rating,6,Apartment,Bandra,Mumbai,3482,49000,17.06,Under Construction, â§ AGENT
+708,ProptigerCity Expert â§ AGENT4.81 Rating,6,Apartment,Bandra,Mumbai,3432,49000,16.81,Under Construction, â§ AGENT
+709,ProptigerCity Expert â§ AGENT4.81 Rating,6,Apartment,Bandra,Mumbai,3483,49000,17.06,Under Construction, â§ AGENT
+710,ProptigerCity Expert â§ AGENT4.81 Rating,7,Apartment,Bandra,Mumbai,3437,49000,16.84,Under Construction, â§ AGENT
+711,Ahad Real Estate ConsultantAGENT4.5,1,Apartment,Mount,Mumbai,615,56910,3.5,Ready to move,AGENT
+712,S K PropertiesAGENT4.5,1,Apartment,Kandivali,Mumbai,400,14500,0.58,Ready to move,AGENT
+713,A to Z Real Estate CompanyAGENT0,3,Apartment,Santacruz,Mumbai,1494,27108,4.05,Under Construction,AGENT
+714,S Square RealityAGENT0,1,Apartment,kasaradavali,Mumbai,650,9230,0.6,Ready to move,AGENT
+715,Manish SinghAGENT0,1,Apartment,kasaradavali,Mumbai,600,0,0.57,Ready to move,AGENT
+716,Rana SinghAGENT0,2,Apartment,kasaradavali,Mumbai,1100,8545,0.94,Ready to move,AGENT
+717,Aashiyana PropertiesAGENT0,2,Apartment,kasaradavali,Mumbai,1050,8857,0.93,Under Construction,AGENT
+718,ProptigerAGENT0,2,Apartment,Thane,Mumbai,712,9500,1.36,Under Construction,AGENT
+719,ProptigerAGENT0,2,Apartment,Thane,Mumbai,673,9500,1.32,Under Construction,AGENT
+720,ProptigerAGENT0,2,Apartment,Thane,Mumbai,527,9500,1.06,Under Construction,AGENT
+721,ProptigerAGENT0,2,Apartment,Thane,Mumbai,711,9500,1.41,Under Construction,AGENT
+722,ProptigerAGENT0,2,Apartment,Thane,Mumbai,669,9500,1.27,Under Construction,AGENT
+723,ProptigerAGENT0,2,Apartment,Thane,Mumbai,1047,9500,0.9945999999999999,Under Construction,AGENT
+724,ProptigerAGENT0,2,Apartment,Thane,Mumbai,830,9500,0.7885,Under Construction,AGENT
+725,ProptigerAGENT0,2,Apartment,Mulund,Mumbai,969,27870,2.7,Under Construction,AGENT
+726,ProptigerAGENT0,2,Apartment,Mulund,Mumbai,861,27754,2.38,Under Construction,AGENT
+727,ProptigerAGENT0,1,Apartment,Mulund,Mumbai,452,27871,1.25,Under Construction,AGENT
+728,ProptigerAGENT0,1,Apartment,Mulund,Mumbai,452,27871,1.25,Under Construction,AGENT
+729,ProptigerAGENT0,3,Apartment,Thane,Mumbai,1013,21500,2.17,Ready to move,AGENT
+730,ProptigerAGENT0,3,Apartment,Thane,Mumbai,983,21500,2.11,Ready to move,AGENT
+731,ProptigerAGENT0,2,Apartment,Thane,Mumbai,820,21500,1.76,Ready to move,AGENT
+732,ProptigerAGENT0,2,Apartment,Thane,Mumbai,819,21500,1.76,Ready to move,AGENT
+733,ProptigerAGENT0,2,Apartment,Thane,Mumbai,718,21500,1.54,Ready to move,AGENT
+734,ProptigerAGENT0,2,Apartment,Thane,Mumbai,663,21500,1.42,Ready to move,AGENT
+735,ProptigerAGENT0,1,Apartment,Thane,Mumbai,442,21500,0.9503,Ready to move,AGENT
+736,ProptigerAGENT0,2,Apartment,Thane,Mumbai,566,11000,0.623,Under Construction,AGENT
+737,ProptigerAGENT0,2,Apartment,Thane,Mumbai,627,11000,0.69,Under Construction,AGENT
+738,ProptigerAGENT0,2,Apartment,Thane,Mumbai,584,11000,0.6420999999999999,Under Construction,AGENT
+739,ProptigerAGENT0,2,Apartment,Thane,Mumbai,982,11000,1.08,Under Construction,AGENT
+740,ProptigerAGENT0,1,Studio,Thane,Mumbai,309,11000,0.3394,Under Construction,AGENT
+741,ProptigerAGENT0,1,Studio,Thane,Mumbai,309,11000,0.33990000000000004,Under Construction,AGENT
+742,Himanshu RangaAGENT0,1,Apartment,Dombivali,Mumbai,510,11261,0.5743,Under Construction,AGENT
+743,Himanshu RangaAGENT0,2,Apartment,Dombivali,Mumbai,679,11241,0.7631999999999999,Under Construction,AGENT
+744,Himanshu RangaAGENT0,1,Apartment,Dombivali,Mumbai,458,11289,0.517,Under Construction,AGENT
+745,Himanshu RangaAGENT0,1,Apartment,Dombivali,Mumbai,339,11356,0.385,Under Construction,AGENT
+746,Himanshu RangaAGENT0,2,Apartment,Dombivali,Mumbai,715,11225,0.8026000000000001,Under Construction,AGENT
+747,Space OneAGENT0,2,Apartment,Ghatkopar,Mumbai,543,31307,1.7,Under Construction,AGENT
+748,Space OneAGENT0,2,Apartment,Ghatkopar,Mumbai,691,31307,2.16,Under Construction,AGENT
+749,Space OneAGENT0,2,Apartment,Ghatkopar,Mumbai,624,31307,1.95,Under Construction,AGENT
+750,Space OneAGENT0,2,Apartment,Ghatkopar,Mumbai,590,31307,1.84,Under Construction,AGENT
+751,Space OneAGENT0,1,Apartment,Ghatkopar,Mumbai,424,28078,1.19,Under Construction,AGENT
+752,Space OneAGENT0,1,Apartment,Ghatkopar,Mumbai,440,28078,1.23,Under Construction,AGENT
+753,Space OneAGENT0,1,Apartment,Ghatkopar,Mumbai,510,28078,1.43,Under Construction,AGENT
+754,Space OneAGENT0,1,Apartment,Ghatkopar,Mumbai,406,28078,1.14,Under Construction,AGENT
+755,Space OneAGENT0,2,Apartment,Ghatkopar,Mumbai,549,31307,1.71,Under Construction,AGENT
+756,ProptigerAGENT0,2,Apartment,Thane,Mumbai,887,19149,1.8,Under Construction,AGENT
+757,ProptigerAGENT0,2,Apartment,Thane,Mumbai,572,19149,1.1,Under Construction,AGENT
+758,Joel EnterprisesAGENT0,1,Apartment,Greater,Mumbai,555,8648,0.48,Ready to move,AGENT
+759,India PropertiesAGENT0,2,Apartment,Kharghar,Mumbai,1050,10952,1.15,Ready to move,AGENT
+760,Home Land RealtorsAGENT0,1,Apartment,Kalyan,Mumbai,450,5555,0.25,Ready to move,AGENT
+761,SHIV SAGAR PROPERTYAGENT0,2,Apartment,Ulwe,Mumbai,1120,7589,0.85,Ready to move,AGENT
+762,Seeds Realty InvestmentsAGENT0,2,Apartment,Dombivali,Mumbai,656,10431,0.6843,Under Construction,AGENT
+763,S K PropertyAGENT0,1,Apartment,Virar,Mumbai,550,3636,0.2,Ready to move,AGENT
+764,Devendra ShettyBUILDER0,2,Apartment,Kurla,Mumbai,1050,13142,1.38,Ready to move,BUILDER
+765,Devendra ShettyBUILDER0,1,Apartment,Kurla,Mumbai,690,12898,0.89,Ready to move,BUILDER
+766,Shree Siddhivinayak Real EstateAGENT0,2,Apartment,Ulwe,Mumbai,1050,7619,0.8,Ready to move,AGENT
+767,JP AssociatesAGENT0,2,Apartment,Mira,Mumbai,573,15895,0.9107,Ready to move,AGENT
+768,JP AssociatesAGENT0,1,Apartment,Mira,Mumbai,396,15659,0.62,Ready to move,AGENT
+769,JP AssociatesAGENT0,2,Apartment,Mira,Mumbai,485,16389,0.7948000000000001,Ready to move,AGENT
+770,ProptigerAGENT0,2,Apartment,Kalyan,Mumbai,634,11469,0.7271,Under Construction,AGENT
+771,ProptigerAGENT0,2,Apartment,Kalyan,Mumbai,690,10356,0.7145,Under Construction,AGENT
+772,ProptigerAGENT0,2,Apartment,Kalyan,Mumbai,675,8802,0.75,Under Construction,AGENT
+773,ProptigerAGENT0,2,Apartment,Kalyan,Mumbai,630,10571,0.6659,Under Construction,AGENT
+774,amitBUILDER0,2,Apartment,Ghatkopar,Mumbai,670,17462,1.17,Under Construction,BUILDER
+775,Millennium RealtorsAGENT0,2,Apartment,Thane,Mumbai,950,10000,0.95,Ready to move,AGENT
+776,MUKESH KUMARAGENT0,2,Apartment,Airoli,Mumbai,1100,11818,1.3,Ready to move,AGENT
+777,Home Land RealtorsAGENT0,1,Apartment,Kalyan,Mumbai,615,6829,0.42,Ready to move,AGENT
+778,amitBUILDER0,1,Apartment,Kalyan,Mumbai,646,6749,0.436,Under Construction,BUILDER
+779,ProptigerAGENT0,1,Apartment,Kanjurmarg,Mumbai,467,23070,1.26,Under Construction,AGENT
+780,ProptigerAGENT0,1,Apartment,Kanjurmarg,Mumbai,465,23070,1.25,Under Construction,AGENT
+781,ProptigerAGENT0,1,Apartment,Thane,Mumbai,338,13500,0.507,Under Construction,AGENT
+782,ProptigerAGENT0,2,Apartment,Kanjurmarg,Mumbai,535,18906,1.18,Under Construction,AGENT
+783,ProptigerAGENT0,2,Apartment,Kanjurmarg,Mumbai,616,18627,1.34,Under Construction,AGENT
+784,ProptigerAGENT0,2,Apartment,Kanjurmarg,Mumbai,646,19935,1.51,Under Construction,AGENT
+785,ProptigerAGENT0,2,Apartment,Kanjurmarg,Mumbai,626,20569,1.51,Under Construction,AGENT
+786,ProptigerAGENT0,2,Apartment,Kanjurmarg,Mumbai,616,18627,1.34,Under Construction,AGENT
+787,Aasco RealtyAGENT0,2,Apartment,Taloja,Mumbai,1050,5904,0.62,Ready to move,AGENT
+788,amitBUILDER0,1,Apartment,Ghatkopar,Mumbai,612,24183,1.48,Under Construction,BUILDER
+789,Jhp InfraAGENT3.3,3,Apartment,Hennur,Bangalore,1410,5434,0.7662,Under Construction,AGENT
+790,Jhp InfraAGENT3.3,2,Apartment,Hennur,Bangalore,1240,5495,0.6814,Under Construction,AGENT
+791,Jhp InfraAGENT3.3,2,Apartment,Hennur,Bangalore,1187,5518,0.655,Under Construction,AGENT
+792,Jhp InfraAGENT3.3,3,Apartment,Hennur,Bangalore,1410,5434,0.7662,Under Construction,AGENT
+793,Jhp InfraAGENT3.3,3,Apartment,Hennur,Bangalore,1360,5450,0.7413,Under Construction,AGENT
+794,Jhp InfraAGENT3.3,2,Apartment,Hennur,Bangalore,1150,5535,0.6365,Under Construction,AGENT
+795,Jhp InfraAGENT3.3,2,Apartment,Hennur,Bangalore,1235,5497,0.6789000000000001,Under Construction,AGENT
+796,Jhp InfraAGENT3.3,2,Apartment,Hennur,Bangalore,1234,5498,0.6784,Under Construction,AGENT
+797,Jhp InfraAGENT3.3,2,Apartment,Hennur,Bangalore,1134,5543,0.6285000000000001,Under Construction,AGENT
+798,Jhp InfraAGENT3.3,2,Apartment,Hennur,Bangalore,1100,5560,0.6115999999999999,Under Construction,AGENT
+799,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5432,0.59,Ready to move,AGENT
+800,Prop UrbanAGENT4.5,2,Apartment,Krishnarajapura,Bangalore,1629,6114,0.996,Ready to move,AGENT
+801,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5432,0.59,Ready to move,AGENT
+802,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5432,0.59,Ready to move,AGENT
+803,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5432,0.59,Ready to move,AGENT
+804,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5432,0.59,Ready to move,AGENT
+805,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5432,0.59,Ready to move,AGENT
+806,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5432,0.59,Ready to move,AGENT
+807,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5709,0.62,Ready to move,AGENT
+808,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5432,0.59,Ready to move,AGENT
+809,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5432,0.59,Ready to move,AGENT
+810,shree rajashree developers pvt ltdBUILDER3.9,3,Apartment,Vishveshwarayya,Bangalore,1411,425,0.0599,Ready to move,BUILDER
+811,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5709,0.62,Ready to move,AGENT
+812,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5709,0.62,Under Construction,AGENT
+813,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Whitefield,Bangalore,524,5150,0.2698,Under Construction, â§ AGENT
+814,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Whitefield,Bangalore,840,5150,0.4326,Under Construction, â§ AGENT
+815,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Whitefield,Bangalore,877,5150,0.45159999999999995,Under Construction, â§ AGENT
+816,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Whitefield,Bangalore,894,5150,0.4604,Under Construction, â§ AGENT
+817,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Whitefield,Bangalore,1173,5150,0.604,Under Construction, â§ AGENT
+818,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Whitefield,Bangalore,1180,5150,0.6077,Under Construction, â§ AGENT
+819,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Whitefield,Bangalore,1350,5150,0.6951999999999999,Under Construction, â§ AGENT
+820,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Whitefield,Bangalore,1123,5150,0.5783,Under Construction, â§ AGENT
+821,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Whitefield,Bangalore,750,5150,0.3862,Under Construction, â§ AGENT
+822,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Whitefield,Bangalore,704,5150,0.3625,Under Construction, â§ AGENT
+823,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1520,5150,0.7828,Under Construction, â§ AGENT
+824,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Whitefield,Bangalore,1357,5150,0.6988,Under Construction, â§ AGENT
+825,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1564,5150,0.8054000000000001,Under Construction, â§ AGENT
+826,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1574,5150,0.8106,Under Construction, â§ AGENT
+827,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1596,5150,0.8219,Under Construction, â§ AGENT
+828,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1610,5150,0.8291,Under Construction, â§ AGENT
+829,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1639,5150,0.8440000000000001,Under Construction, â§ AGENT
+830,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1544,5150,0.7951,Under Construction, â§ AGENT
+831,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1537,5150,0.7915000000000001,Under Construction, â§ AGENT
+832,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1545,5150,0.7956,Under Construction, â§ AGENT
+833,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1524,5150,0.7848,Under Construction, â§ AGENT
+834,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1540,5150,0.7931,Under Construction, â§ AGENT
+835,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1659,5150,0.8543000000000001,Under Construction, â§ AGENT
+836,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Varthur,Bangalore,650,5150,0.3347,Under Construction, â§ AGENT
+837,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Varthur,Bangalore,1000,5150,0.515,Under Construction, â§ AGENT
+838,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Varthur,Bangalore,937,5150,0.4825,Under Construction, â§ AGENT
+839,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Varthur,Bangalore,746,5150,0.38409999999999994,Under Construction, â§ AGENT
+840,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Varthur,Bangalore,661,5150,0.3404,Under Construction, â§ AGENT
+841,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Varthur,Bangalore,657,5150,0.3383,Under Construction, â§ AGENT
+842,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Varthur,Bangalore,645,5150,0.3321,Under Construction, â§ AGENT
+843,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Varthur,Bangalore,1007,5150,0.5186,Under Construction, â§ AGENT
+844,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Varthur,Bangalore,1210,5150,0.6231,Under Construction, â§ AGENT
+845,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Varthur,Bangalore,1012,5150,0.5211,Under Construction, â§ AGENT
+846,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Varthur,Bangalore,1200,5150,0.618,Under Construction, â§ AGENT
+847,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Varthur,Bangalore,1205,5150,0.6204999999999999,Under Construction, â§ AGENT
+848,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanakapura,Bangalore,712,4199,0.2989,Under Construction, â§ AGENT
+849,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanakapura,Bangalore,765,4199,0.3212,Under Construction, â§ AGENT
+850,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanakapura,Bangalore,712,4899,0.3488,Under Construction, â§ AGENT
+851,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1075,4199,0.45130000000000003,Under Construction, â§ AGENT
+852,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1477,4199,0.6201,Under Construction, â§ AGENT
+853,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1304,4199,0.5475,Under Construction, â§ AGENT
+854,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1178,4199,0.4946,Under Construction, â§ AGENT
+855,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1017,4199,0.42700000000000005,Under Construction, â§ AGENT
+856,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanakapura,Bangalore,938,4199,0.39380000000000004,Under Construction, â§ AGENT
+857,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1093,4199,0.45890000000000003,Under Construction, â§ AGENT
+858,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1257,4199,0.5278,Under Construction, â§ AGENT
+859,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1274,4199,0.5349,Under Construction, â§ AGENT
+860,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1283,4199,0.5387,Under Construction, â§ AGENT
+861,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1492,4199,0.6264,Under Construction, â§ AGENT
+862,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1309,4199,0.5496,Under Construction, â§ AGENT
+863,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanakapura,Bangalore,765,4899,0.3747,Under Construction, â§ AGENT
+864,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Kanakapura,Bangalore,938,4899,0.4595,Under Construction, â§ AGENT
+865,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1178,4899,0.5771000000000001,Under Construction, â§ AGENT
+866,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1309,4899,0.6412,Under Construction, â§ AGENT
+867,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1017,4899,0.4982,Under Construction, â§ AGENT
+868,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1075,4899,0.5266,Under Construction, â§ AGENT
+869,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1093,4899,0.5354,Under Construction, â§ AGENT
+870,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1257,4899,0.6158,Under Construction, â§ AGENT
+871,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1274,4899,0.6241,Under Construction, â§ AGENT
+872,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1283,4899,0.6285000000000001,Under Construction, â§ AGENT
+873,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Kanakapura,Bangalore,1304,4899,0.6388,Under Construction, â§ AGENT
+874,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1477,4899,0.7234999999999999,Under Construction, â§ AGENT
+875,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1492,4899,0.7309,Under Construction, â§ AGENT
+876,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Gottigere,Bangalore,1115,5450,0.7678,Under Construction, â§ AGENT
+877,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Gottigere,Bangalore,1348,5450,0.9218999999999999,Under Construction, â§ AGENT
+878,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1938,4199,0.8137000000000001,Under Construction, â§ AGENT
+879,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1699,4199,0.7134,Under Construction, â§ AGENT
+880,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1500,4199,0.6297999999999999,Under Construction, â§ AGENT
+881,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1707,4199,0.7167,Under Construction, â§ AGENT
+882,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1738,4199,0.7297,Under Construction, â§ AGENT
+883,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1500,4899,0.7348,Under Construction, â§ AGENT
+884,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1707,4899,0.8362,Under Construction, â§ AGENT
+885,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1738,4899,0.8514,Under Construction, â§ AGENT
+886,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1699,4899,0.8323,Under Construction, â§ AGENT
+887,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Kanakapura,Bangalore,1938,4899,0.9494,Under Construction, â§ AGENT
+888,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Gottigere,Bangalore,1130,5450,0.7421,Under Construction, â§ AGENT
+889,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Gottigere,Bangalore,1385,5450,1.01,Under Construction, â§ AGENT
+890,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Gottigere,Bangalore,1400,5450,0.763,Under Construction, â§ AGENT
+891,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Gottigere,Bangalore,1596,5450,1.08,Under Construction, â§ AGENT
+892,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Gottigere,Bangalore,1600,5450,1.03,Under Construction, â§ AGENT
+893,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Gottigere,Bangalore,1771,5450,1.2,Under Construction, â§ AGENT
+894,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Gottigere,Bangalore,1855,5450,1.01,Under Construction, â§ AGENT
+895,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Gottigere,Bangalore,1115,5450,0.6076,Under Construction, â§ AGENT
+896,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Gottigere,Bangalore,1130,5450,0.6158,Under Construction, â§ AGENT
+897,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Gottigere,Bangalore,1348,5450,0.7345999999999999,Under Construction, â§ AGENT
+898,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Gottigere,Bangalore,1596,5450,0.8698,Under Construction, â§ AGENT
+899,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Gottigere,Bangalore,1771,5450,0.9651000000000001,Under Construction, â§ AGENT
+900,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Gottigere,Bangalore,1855,5450,1.01,Under Construction, â§ AGENT
+901,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1358,5068,0.8051999999999999,Under Construction, â§ AGENT
+902,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1367,5068,0.8103,Under Construction, â§ AGENT
+903,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Subramanyapura,Bangalore,1745,4942,1.02,Under Construction, â§ AGENT
+904,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Subramanyapura,Bangalore,661,5068,0.4075,Under Construction, â§ AGENT
+905,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1137,5068,0.6815000000000001,Under Construction, â§ AGENT
+906,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1159,5068,0.7034999999999999,Under Construction, â§ AGENT
+907,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Subramanyapura,Bangalore,1571,5068,0.9245,Under Construction, â§ AGENT
+908,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1274,5068,0.6456000000000001,Under Construction, â§ AGENT
+909,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1345,5068,0.8009999999999999,Under Construction, â§ AGENT
+910,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Subramanyapura,Bangalore,661,4800,0.44,Under Construction, â§ AGENT
+911,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1137,4800,0.75,Under Construction, â§ AGENT
+912,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1159,4800,0.77,Under Construction, â§ AGENT
+913,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1274,4800,0.6114999999999999,Under Construction, â§ AGENT
+914,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1345,4800,0.88,Under Construction, â§ AGENT
+915,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1358,4800,0.88,Under Construction, â§ AGENT
+916,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1367,4800,0.88,Under Construction, â§ AGENT
+917,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Subramanyapura,Bangalore,1571,4800,1.04,Under Construction, â§ AGENT
+918,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Subramanyapura,Bangalore,1745,4800,1.12,Under Construction, â§ AGENT
+919,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1137,4800,0.75,Under Construction, â§ AGENT
+920,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1159,4800,0.77,Under Construction, â§ AGENT
+921,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1274,4800,0.6114999999999999,Under Construction, â§ AGENT
+922,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1345,4800,0.88,Under Construction, â§ AGENT
+923,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1358,4800,0.88,Under Construction, â§ AGENT
+924,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Subramanyapura,Bangalore,1367,4800,0.88,Under Construction, â§ AGENT
+925,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Subramanyapura,Bangalore,1571,4800,1.04,Under Construction, â§ AGENT
+926,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Subramanyapura,Bangalore,1750,4942,1.02,Under Construction, â§ AGENT
+927,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Whitefield,Bangalore,1267,8051,1.02,Under Construction, â§ AGENT
+928,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Whitefield,Bangalore,1272,8051,1.02,Under Construction, â§ AGENT
+929,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Whitefield,Bangalore,1274,8051,1.02,Under Construction, â§ AGENT
+930,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1718,7800,1.34,Under Construction, â§ AGENT
+931,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1722,7800,1.34,Under Construction, â§ AGENT
+932,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1758,7800,1.37,Under Construction, â§ AGENT
+933,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1911,7800,1.49,Under Construction, â§ AGENT
+934,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1924,7800,1.5,Under Construction, â§ AGENT
+935,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Whitefield,Bangalore,1132,8304,0.94,Under Construction, â§ AGENT
+936,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1356,9145,1.24,Under Construction, â§ AGENT
+937,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1575,9145,1.44,Under Construction, â§ AGENT
+938,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Whitefield,Bangalore,1603,9145,1.46,Under Construction, â§ AGENT
+939,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Whitefield,Bangalore,862,6150,0.5301,Under Construction, â§ AGENT
+940,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Subramanyapura,Bangalore,1750,4800,1.13,Under Construction, â§ AGENT
+941,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Subramanyapura,Bangalore,1745,4800,1.12,Under Construction, â§ AGENT
+942,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Subramanyapura,Bangalore,1750,4800,1.13,Under Construction, â§ AGENT
+943,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Budigere,Bangalore,760,4940,0.3754,Under Construction, â§ AGENT
+944,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Budigere,Bangalore,1200,5090,0.6108,Under Construction, â§ AGENT
+945,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Budigere,Bangalore,1649,5040,0.831,Under Construction, â§ AGENT
+946,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Budigere,Bangalore,1690,5040,0.8517,Under Construction, â§ AGENT
+947,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Sahakar,Bangalore,1645,7350,1.2,Under Construction, â§ AGENT
+948,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Sahakar,Bangalore,2470,7350,1.81,Under Construction, â§ AGENT
+949,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Sahakar,Bangalore,1985,7350,1.8,Under Construction, â§ AGENT
+950,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Sahakar,Bangalore,2790,7350,2.05,Under Construction, â§ AGENT
+951,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Budigere,Bangalore,1670,5040,0.8416,Under Construction, â§ AGENT
+952,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Budigere,Bangalore,2437,5040,1.22,Under Construction, â§ AGENT
+953,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Sahakar,Bangalore,1320,7350,0.9702,Under Construction, â§ AGENT
+954,ProptigerCity Expert â§ AGENT4.81 Rating,4,Apartment,Budigere,Bangalore,2440,5040,1.22,Under Construction, â§ AGENT
+955,Prop UrbanAGENT4.5,2,Apartment,Krishnarajapura,Bangalore,1629,6114,0.996,Ready to move,AGENT
+956,Prop UrbanAGENT4.5,1,Apartment,Krishnarajapura,Bangalore,1314,5929,0.7792,Ready to move,AGENT
+957,Prop UrbanAGENT4.5,2,Apartment,Krishnarajapura,Bangalore,1629,6114,0.996,Ready to move,AGENT
+958,Prop UrbanAGENT4.5,1,Apartment,Krishnarajapura,Bangalore,1314,5929,0.7792,Ready to move,AGENT
+959,Prop UrbanAGENT4.5,2,Apartment,Krishnarajapura,Bangalore,1629,6114,0.996,Ready to move,AGENT
+960,Prop UrbanAGENT4.5,1,Apartment,Krishnarajapura,Bangalore,1314,5929,0.7792,Ready to move,AGENT
+961,Prop UrbanAGENT4.5,2,Apartment,Krishnarajapura,Bangalore,1629,6114,0.996,Ready to move,AGENT
+962,Prop UrbanAGENT4.5,1,Apartment,Krishnarajapura,Bangalore,1314,5929,0.7792,Ready to move,AGENT
+963,Prop UrbanAGENT4.5,2,Apartment,Krishnarajapura,Bangalore,1629,6114,0.996,Ready to move,AGENT
+964,Prop UrbanAGENT4.5,1,Apartment,Krishnarajapura,Bangalore,1314,5929,0.7792,Ready to move,AGENT
+965,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5709,0.62,Under Construction,AGENT
+966,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5709,0.62,Under Construction,AGENT
+967,Prop UrbanAGENT4.5,1,Apartment,Dasarahalli,Bangalore,1086,5709,0.62,Under Construction,AGENT
+968,Prop UrbanAGENT4.5,2,Apartment,Krishnarajapura,Bangalore,1629,6114,0.996,Ready to move,AGENT
+969,Prop UrbanAGENT4.5,1,Apartment,Krishnarajapura,Bangalore,1314,5929,0.7792,Ready to move,AGENT
+970,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Chikkagubbi,Bangalore,1165,4750,0.7745000000000001,Ready to move, â§ AGENT
+971,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Chikkagubbi,Bangalore,1402,4750,0.9122,Ready to move, â§ AGENT
+972,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Chikkagubbi,Bangalore,1446,4750,0.9408,Ready to move, â§ AGENT
+973,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Chikkagubbi,Bangalore,1561,5225,1.05,Ready to move, â§ AGENT
+974,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Chikkagubbi,Bangalore,1180,5225,0.8107,Ready to move, â§ AGENT
+975,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Chikkagubbi,Bangalore,1450,5225,0.9828,Ready to move, â§ AGENT
+976,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Budigere,Bangalore,1205,5090,0.6133,Under Construction, â§ AGENT
+977,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Budigere,Bangalore,1520,5090,0.7736,Under Construction, â§ AGENT
+978,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Budigere,Bangalore,1499,5040,0.7554000000000001,Under Construction, â§ AGENT
+979,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Budigere,Bangalore,1650,5040,0.8316,Under Construction, â§ AGENT
+980,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Budigere,Bangalore,1102,5090,0.5609000000000001,Under Construction, â§ AGENT
+981,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Budigere,Bangalore,1316,5090,0.6698000000000001,Under Construction, â§ AGENT
+982,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Budigere,Bangalore,1446,5040,0.7287,Under Construction, â§ AGENT
+983,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Budigere,Bangalore,1470,5040,0.7408,Under Construction, â§ AGENT
+984,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Budigere,Bangalore,1592,5040,0.8023,Under Construction, â§ AGENT
+985,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Budigere,Bangalore,1170,5090,0.5954999999999999,Under Construction, â§ AGENT
+986,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Budigere,Bangalore,1190,5090,0.6057,Under Construction, â§ AGENT
+987,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Budigere,Bangalore,1490,5040,0.7509,Under Construction, â§ AGENT
+988,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Budigere,Bangalore,1510,5040,0.7609999999999999,Under Construction, â§ AGENT
+989,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Budigere,Bangalore,1148,5090,0.5843,Under Construction, â§ AGENT
+990,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Budigere,Bangalore,758,4940,0.37439999999999996,Under Construction, â§ AGENT
+991,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Budigere,Bangalore,719,4940,0.35509999999999997,Under Construction, â§ AGENT
+992,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Budigere,Bangalore,1516,5090,0.7716,Under Construction, â§ AGENT
+993,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Budigere,Bangalore,720,4940,0.3556,Under Construction, â§ AGENT
+994,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Budigere,Bangalore,1150,5090,0.5853,Under Construction, â§ AGENT
+995,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Budigere,Bangalore,1500,5090,0.7635,Under Construction, â§ AGENT
+996,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Budigere,Bangalore,1500,5040,0.7559999999999999,Under Construction, â§ AGENT
+997,Chandra BabuAGENT0,2,Apartment,Hosur,Bangalore,854,2927,0.25,Ready to move,AGENT
+998,Chandra BabuAGENT0,2,Apartment,Hosur,Bangalore,991,2875,0.285,Ready to move,AGENT
+999,ProptigerAGENT0,3,Apartment,Vijayanagar,Bangalore,1835,6500,1.27,Ready to move,AGENT
+1000,ProptigerAGENT0,3,Apartment,Vijayanagar,Bangalore,1800,6500,1.17,Ready to move,AGENT
+1001,ProptigerAGENT0,3,Apartment,Vijayanagar,Bangalore,1850,6500,1.2,Ready to move,AGENT
+1002,ProptigerAGENT0,3,Apartment,Vijayanagar,Bangalore,1605,6500,1.11,Ready to move,AGENT
+1003,ProptigerAGENT0,2,Apartment,Vijayanagar,Bangalore,1205,6500,0.7831999999999999,Ready to move,AGENT
+1004,ProptigerAGENT0,2,Apartment,Vijayanagar,Bangalore,955,6500,0.6207,Ready to move,AGENT
+1005,ProptigerAGENT0,3,Apartment,Vijayanagar,Bangalore,1316,6500,0.8554,Ready to move,AGENT
+1006,ProptigerAGENT0,2,Apartment,Vijayanagar,Bangalore,1079,6500,0.7012999999999999,Ready to move,AGENT
+1007,ProptigerAGENT0,3,Apartment,Vijayanagar,Bangalore,1331,6500,0.8651000000000001,Ready to move,AGENT
+1008,ProptigerAGENT0,3,Apartment,Vijayanagar,Bangalore,1287,6500,0.8365,Ready to move,AGENT
+1009,ProptigerAGENT0,3,Apartment,Vijayanagar,Bangalore,1249,6500,0.8118000000000001,Ready to move,AGENT
+1010,ProptigerAGENT0,2,Apartment,Vijayanagar,Bangalore,992,6500,0.6448,Ready to move,AGENT
+1011,ProptigerAGENT0,3,Apartment,Vijayanagar,Bangalore,1595,6500,1.03,Ready to move,AGENT
+1012,ProptigerAGENT0,2,Apartment,Vijayanagar,Bangalore,1240,6500,0.8059999999999999,Ready to move,AGENT
+1013,ProptigerAGENT0,2,Apartment,Vijayanagar,Bangalore,955,6500,0.6207,Ready to move,AGENT
+1014,ProptigerAGENT0,2,Apartment,Subramanyapura,Bangalore,1200,5390,0.6468,Ready to move,AGENT
+1015,ProptigerAGENT0,2,Apartment,Subramanyapura,Bangalore,1184,5390,0.6381,Ready to move,AGENT
+1016,ProptigerAGENT0,2,Apartment,Subramanyapura,Bangalore,1180,5390,0.636,Ready to move,AGENT
+1017,ProptigerAGENT0,2,Apartment,Subramanyapura,Bangalore,1173,5390,0.6322,Ready to move,AGENT
+1018,ProptigerAGENT0,2,Apartment,Subramanyapura,Bangalore,1167,5390,0.629,Ready to move,AGENT
+1019,ProptigerAGENT0,3,Apartment,RR,Bangalore,1611,5200,1.13,Ready to move,AGENT
+1020,professional property consultantsAGENT0,5,Independent,Ramamurthy,Bangalore,2200,5454,1.2,Ready to move,AGENT
+1021,professional property consultantsAGENT0,3,Independent,Kammanahalli,Bangalore,2800,16964,4.75,Ready to move,AGENT
+1022,ProptigerAGENT0,3,Apartment,Vasanth,Bangalore,3503,21000,8.93,Ready to move,AGENT
+1023,ProptigerAGENT0,3,Apartment,Vasanth,Bangalore,3489,21000,8.9,Ready to move,AGENT
+1024,ProptigerAGENT0,3,Apartment,Vasanth,Bangalore,3600,21000,7.56,Ready to move,AGENT
+1025,ProptigerAGENT0,4,Apartment,Kodihalli,Bangalore,3817,21232,8.1,Ready to move,AGENT
+1026,ProptigerAGENT0,4,Apartment,Thanisandra,Bangalore,2325,9247,2.14,Under Construction,AGENT
+1027,ProptigerAGENT0,3,Apartment,Thanisandra,Bangalore,2016,8602,1.73,Under Construction,AGENT
+1028,ProptigerAGENT0,4,Apartment,Thanisandra,Bangalore,1989,9247,1.83,Under Construction,AGENT
+1029,ProptigerAGENT0,2,Apartment,Bagaluru,Bangalore,1272,6833,0.8691,Under Construction,AGENT
+1030,ProptigerAGENT0,3,Apartment,Bommanahalli,Bangalore,1885,6200,1.16,Under Construction,AGENT
+1031,ProptigerAGENT0,3,Apartment,Bommanahalli,Bangalore,1615,5900,1.08,Under Construction,AGENT
+1032,professional property consultantsAGENT0,6,Independent,Kasturi,Bangalore,2400,22916,5.5,Ready to move,AGENT
+1033,professional property consultantsAGENT0,3,Independent,OMBR,Bangalore,1800,5500,0.99,Ready to move,AGENT
+1034,ProptigerAGENT0,3,Apartment,Krishnarajapura,Bangalore,1744,5100,0.8894,Under Construction,AGENT
+1035,ProptigerAGENT0,3,Apartment,Krishnarajapura,Bangalore,1801,4949,0.9351,Under Construction,AGENT
+1036,ProptigerAGENT0,3,Apartment,Krishnarajapura,Bangalore,1371,4949,0.7332,Under Construction,AGENT
+1037,ProptigerAGENT0,3,Apartment,Krishnarajapura,Bangalore,1361,4949,0.7284999999999999,Under Construction,AGENT
+1038,ProptigerAGENT0,3,Apartment,Krishnarajapura,Bangalore,1700,4949,0.8412999999999999,Under Construction,AGENT
+1039,ProptigerAGENT0,3,Apartment,Krishnarajapura,Bangalore,1450,4949,0.7176,Under Construction,AGENT
+1040,Kanasu Propertie'sAGENT0,4,Independent,byatarayanapura,Bangalore,4400,4318,1.9,Ready to move,AGENT
+1041,ProptigerAGENT0,4,Apartment,Thanisandra,Bangalore,2325,9247,2.14,Under Construction,AGENT
+1042,ProptigerAGENT0,3,Apartment,Thanisandra,Bangalore,2022,8602,1.73,Under Construction,AGENT
+1043,ProptigerAGENT0,3,Apartment,Thanisandra,Bangalore,2182,8602,1.87,Under Construction,AGENT
+1044,ProptigerAGENT0,3,Apartment,Thanisandra,Bangalore,2181,8602,1.87,Under Construction,AGENT
+1045,ProptigerAGENT0,3,Apartment,Thanisandra,Bangalore,2016,8602,1.73,Under Construction,AGENT
+1046,ProptigerAGENT0,3,Apartment,Thanisandra,Bangalore,1680,8602,1.44,Under Construction,AGENT
+1047,Yes PropertyAGENT0,3,Apartment,Varthur,Bangalore,1800,5555,1.0,Under Construction,AGENT
+1048,Brick TipAGENT0,3,Apartment,Thanisandra,Bangalore,2181,8603,1.87,Under Construction,AGENT
+1049,RiteshAGENT0,2,Apartment,Krishnarajapura,Bangalore,1136,5770,0.6548999999999999,Under Construction,AGENT
+1050,ProptigerAGENT0,3,Apartment,Subramanyapura,Bangalore,1720,6140,1.05,Ready to move,AGENT
+1051,ProptigerAGENT0,4,Apartment,Marathahalli,Bangalore,4600,9590,4.41,Ready to move,AGENT
+1052,ProptigerAGENT0,4,Apartment,Marathahalli,Bangalore,3280,9590,3.14,Ready to move,AGENT
+1053,ProptigerAGENT0,4,Apartment,Whitefield,Bangalore,5576,9715,5.41,Ready to move,AGENT
+1054,ProptigerAGENT0,4,Apartment,Whitefield,Bangalore,4041,9715,3.92,Ready to move,AGENT
+1055,ProptigerAGENT0,4,Apartment,Whitefield,Bangalore,4041,10449,4.22,Ready to move,AGENT
+1056,ProptigerAGENT0,4,Apartment,Whitefield,Bangalore,4021,9715,3.9,Ready to move,AGENT
+1057,ProptigerAGENT0,3,Apartment,Kogilu,Bangalore,1934,6331,1.22,Under Construction,AGENT
+1058,ProptigerAGENT0,2,Apartment,Kogilu,Bangalore,1480,6331,0.9369,Under Construction,AGENT
+1059,ProptigerAGENT0,2,Apartment,Kogilu,Bangalore,1450,6331,0.9179,Under Construction,AGENT
+1060,NSR VenturesAGENT0,2,Apartment,Whitefield,Bangalore,1110,4500,0.49950000000000006,Ready to move,AGENT
+1061,NSR VenturesAGENT0,2,Apartment,Whitefield,Bangalore,1044,4500,0.4698,Ready to move,AGENT
+1062,NSR VenturesAGENT0,3,Apartment,Whitefield,Bangalore,1411,4500,0.6349,Ready to move,AGENT
+1063,NSR VenturesAGENT0,2,Apartment,Whitefield,Bangalore,1043,4500,0.4693,Ready to move,AGENT
+1064,NSR VenturesAGENT0,2,Apartment,Whitefield,Bangalore,1121,4500,0.5044,Ready to move,AGENT
+1065,NSR VenturesAGENT0,2,Apartment,Whitefield,Bangalore,1129,4500,0.508,Ready to move,AGENT
+1066,NSR VenturesAGENT0,2,Apartment,Whitefield,Bangalore,1091,4500,0.49090000000000006,Ready to move,AGENT
+1067,NSR VenturesAGENT0,3,Apartment,Whitefield,Bangalore,1530,4500,0.6884999999999999,Ready to move,AGENT
+1068,NSR VenturesAGENT0,2,Apartment,Whitefield,Bangalore,1071,4500,0.4819,Ready to move,AGENT
+1069,NSR VenturesAGENT0,3,Apartment,Whitefield,Bangalore,1495,4500,0.6727,Ready to move,AGENT
+1070,NSR VenturesAGENT0,2,Apartment,Whitefield,Bangalore,1036,4500,0.46619999999999995,Ready to move,AGENT
+1071,NSR VenturesAGENT0,3,Apartment,Whitefield,Bangalore,1333,4500,0.5998,Ready to move,AGENT
+1072,Epcot Downtown Ventures pvt ltdAGENT0,3,Apartment,Sarjapur,Bangalore,1554,6196,0.9629000000000001,Under Construction,AGENT
+1073,Epcot Downtown Ventures pvt ltdAGENT0,3,Apartment,Sarjapur,Bangalore,1439,6227,0.8961,Under Construction,AGENT
+1074,Epcot Downtown Ventures pvt ltdAGENT0,3,Apartment,Sarjapur,Bangalore,1436,6227,0.8943000000000001,Under Construction,AGENT
+1075,Epcot Downtown Ventures pvt ltdAGENT0,2,Apartment,Sarjapur,Bangalore,1131,6104,0.6904,Under Construction,AGENT
+1076,Epcot Downtown Ventures pvt ltdAGENT0,2,Apartment,Sarjapur,Bangalore,1094,6358,0.6956,Under Construction,AGENT
+1077,Epcot Downtown Ventures pvt ltdAGENT0,2,Apartment,Sarjapur,Bangalore,1085,6609,0.7171,Under Construction,AGENT
+1078,Sri Vyshnavi EnterprisesAGENT0,2,Apartment,Srinivasa,Bangalore,600,15000,0.9,Ready to move,AGENT
+1079,pavanraghBUILDER0,2,Apartment,Begur,Bangalore,1493,6337,0.9462,Ready to move,BUILDER
+1080,ProptigerAGENT0,2,Apartment,Bagaluru,Bangalore,795,4040,0.5,Under Construction,AGENT
+1081,ProptigerAGENT0,2,Apartment,Bagaluru,Bangalore,799,4040,0.66,Under Construction,AGENT
+1082,ProptigerAGENT0,3,Apartment,Bagaluru,Bangalore,1043,4040,0.43,Under Construction,AGENT
+1083,ProptigerAGENT0,3,Apartment,Bagaluru,Bangalore,1068,4040,0.4403,Under Construction,AGENT
+1084,ProptigerAGENT0,1,Apartment,Kanakapura,Bangalore,712,5800,0.4129,Under Construction,AGENT
+1085,ProptigerAGENT0,2,Apartment,Kanakapura,Bangalore,1051,5800,0.8,Under Construction,AGENT
+1086,ProptigerAGENT0,2,Apartment,Kanakapura,Bangalore,1019,5800,0.77,Under Construction,AGENT
+1087,ProptigerAGENT0,2,Apartment,Kanakapura,Bangalore,1295,5800,0.7511,Under Construction,AGENT
+1088,ProptigerAGENT0,2,Apartment,Kanakapura,Bangalore,1309,5800,0.95,Under Construction,AGENT
+1089,ProptigerAGENT0,3,Apartment,Kanakapura,Bangalore,1477,5800,0.8565999999999999,Under Construction,AGENT
+1090,ProptigerAGENT0,3,Apartment,Kanakapura,Bangalore,1502,5800,0.8711,Under Construction,AGENT
+1091,ProptigerAGENT0,1,Apartment,Kanakapura,Bangalore,889,5800,0.5156000000000001,Under Construction,AGENT
+1092,ProptigerAGENT0,1,Apartment,Kanakapura,Bangalore,894,5800,0.5185,Under Construction,AGENT
+1093,kumarBUILDER4.7,3,Apartment,Chhawla,Delhi,1540,3441,0.53,Under Construction,BUILDER
+1094,kumarBUILDER4.7,3,Apartment,Chhawla,Delhi,1235,3400,0.42,Under Construction,BUILDER
+1095,kumarBUILDER4.7,2,Apartment,Chhawla,Delhi,935,3422,0.32,Under Construction,BUILDER
+1096,kumarBUILDER4.7,1,Apartment,Chhawla,Delhi,575,3478,0.2,Under Construction,BUILDER
+1097,DELHI INFRATECH LTDAGENT2.9,2,Apartment,Chhawla,Delhi,925,3749,0.3468,Under Construction,AGENT
+1098,DELHI INFRATECH LTDAGENT2.9,1,Apartment,Chhawla,Delhi,765,3749,0.2868,Under Construction,AGENT
+1099,DELHI INFRATECH LTDAGENT2.9,1,Apartment,Chhawla,Delhi,525,3748,0.1968,Under Construction,AGENT
+1100,Shourya InfratechAGENT4.7,4,Apartment,Zone,Delhi,2275,4090,0.9304000000000001,Under Construction,AGENT
+1101,Shourya InfratechAGENT4.7,3,Apartment,Zone,Delhi,1575,4090,0.6441,Under Construction,AGENT
+1102,Shourya InfratechAGENT4.7,3,Apartment,Zone,Delhi,1275,4090,0.5214,Under Construction,AGENT
+1103,Shourya InfratechAGENT4.7,3,Apartment,Zone,Delhi,1975,4090,0.8077,Under Construction,AGENT
+1104,Shourya InfratechAGENT4.7,3,Apartment,Zone,Delhi,1875,4090,0.7668,Under Construction,AGENT
+1105,Shourya InfratechAGENT4.7,4,Apartment,Zone,Delhi,2575,4090,1.05,Under Construction,AGENT
+1106,Shourya InfratechAGENT4.7,2,Apartment,Zone,Delhi,875,4090,0.3578,Under Construction,AGENT
+1107,Shourya InfratechAGENT4.7,2,Apartment,Zone,Delhi,1075,4090,0.4396,Under Construction,AGENT
+1108,Property GalleryAGENT0,4,Independent,Neeti,Delhi,4200,42857,18.0,Ready to move,AGENT
+1109,Property GalleryAGENT0,4,Independent,Neeti,Delhi,4100,43902,18.0,Ready to move,AGENT
+1110,Property GalleryAGENT0,4,Independent,Neeti,Delhi,4000,45000,18.0,Ready to move,AGENT
+1111,Property GalleryAGENT0,4,Independent,Neeti,Delhi,4100,43902,18.0,Ready to move,AGENT
+1112,Property GalleryAGENT0,4,Independent,Neeti,Delhi,7000,30000,21.0,Ready to move,AGENT
+1113,India HomesAGENT0,4,Independent,Neeti,Delhi,2700,24074,6.5,Ready to move,AGENT
+1114,Property GalleryAGENT0,4,Independent,Neeti,Delhi,2000,43750,8.75,Ready to move,AGENT
+1115,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,6952,135877,94.46,Ready to move,AGENT
+1116,B Kumar and BrothersAGENT0,4,Villa,Prithviraj,Delhi,5896,151710,89.44,Ready to move,AGENT
+1117,Property GalleryAGENT0,8,Independent,Sadiq,Delhi,4400,65909,29.0,Ready to move,AGENT
+1118,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,5895,51062,30.1,Ready to move,AGENT
+1119,B Kumar and BrothersAGENT0,4,Independent,Greater,Delhi,6251,24734,15.46,Ready to move,AGENT
+1120,B Kumar and BrothersAGENT0,3,Independent,Greater,Delhi,2253,18605,4.19,Ready to move,AGENT
+1121,CHILLAR HOMESAGENT0,3,Independent,Sector,Delhi,1890,12698,2.4,Ready to move,AGENT
+1122,B Kumar and BrothersAGENT0,4,Villa,Green,Delhi,6251,118445,74.04,Ready to move,AGENT
+1123,B Kumar and BrothersAGENT0,3,Villa,Green,Delhi,1856,54428,10.1,Ready to move,AGENT
+1124,Property GalleryAGENT0,3,Independent,Defence,Delhi,2000,40000,8.0,Ready to move,AGENT
+1125,CHILLAR HOMESAGENT0,4,Independent,dwarka,Delhi,2250,12711,2.86,Ready to move,AGENT
+1126,Vikas GargAGENT0,4,Independent,dwarka,Delhi,2200,12500,2.75,Under Construction,AGENT
+1127,Property GalleryAGENT0,4,Independent,Hauz,Delhi,2200,19545,4.3,Ready to move,AGENT
+1128,gorkahpria associatesAGENT0,2,Independent,Rajouri,Delhi,1305,11494,1.5,Ready to move,AGENT
+1129,gorkahpria associatesAGENT0,3,Independent,Rajouri,Delhi,1440,11458,1.65,Ready to move,AGENT
+1130,sk royAGENT0,2,Independent,Mayur,Delhi,1200,9166,1.1,Ready to move,AGENT
+1131,gorkahpria associatesAGENT0,4,Independent,Rajouri,Delhi,1890,13756,2.6,Ready to move,AGENT
+1132,gorkahpria associatesAGENT0,2,Independent,Gopal,Delhi,900,8333,0.75,Ready to move,AGENT
+1133,gorkahpria associatesAGENT0,3,Independent,Hari,Delhi,1620,11111,1.8,Ready to move,AGENT
+1134,gorkahpria associatesAGENT0,2,Independent,Hari,Delhi,900,10555,0.95,Ready to move,AGENT
+1135,Malik Properties BuildersAGENT0,1,Independent,Sector,Delhi,450,5111,0.23,Ready to move,AGENT
+1136,REALTY CENTREAGENT0,6,Apartment,East,Delhi,2000,12500,2.5,Ready to move,AGENT
+1137,REALTY CENTREAGENT0,3,Independent,Safdarjung,Delhi,1440,20833,3.0,Ready to move,AGENT
+1138,AANVI REAL ESTATEAGENT0,3,Independent,Uttam,Delhi,1008,5456,0.55,Ready to move,AGENT
+1139,Guru Ji AssociatesAGENT0,2,Apartment,Uttam,Delhi,550,5727,0.315,Ready to move,AGENT
+1140,Guru Ji AssociatesAGENT0,3,Apartment,Uttam,Delhi,900,5722,0.515,Ready to move,AGENT
+1141,Green Valley BuilderAGENT0,3,Independent,Dwarka,Delhi,720,5972,0.43,Ready to move,AGENT
+1142,CR propertiesAGENT0,6,Apartment,Karampura,Delhi,3500,16000,5.6,Ready to move,AGENT
+1143,Malik Properties BuildersAGENT0,3,Independent,Rohini,Delhi,720,4861,0.35,Ready to move,AGENT
+1144,Chauhan PropertiesAGENT0,2,Independent,Kalkaji,Delhi,600,7500,0.45,Ready to move,AGENT
+1145,Happy Home Properties and BuildersAGENT0,4,Independent,Dwarka,Delhi,1250,5400,0.6751,Ready to move,AGENT
+1146,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,2253,20399,4.59,Ready to move,AGENT
+1147,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,2253,20396,4.59,Ready to move,AGENT
+1148,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,1856,17383,3.22,Ready to move,AGENT
+1149,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,2741,19925,5.46,Ready to move,AGENT
+1150,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,2745,20018,5.49,Ready to move,AGENT
+1151,B Kumar and BrothersAGENT0,3,Independent,Golf,Delhi,2274,88395,20.1,Ready to move,AGENT
+1152,AMIT GAUTAMAGENT0,2,Apartment,Burari,Delhi,675,4888,0.33,Ready to move,AGENT
+1153,ProptigerAGENT0,4,Apartment,Okhla,Delhi,2518,25284,7.49,Under Construction,AGENT
+1154,malik katyal associatesAGENT0,5,Independent,Preet,Delhi,3060,12026,3.68,Ready to move,AGENT
+1155,malik katyal associatesAGENT0,3,Independent,Nirman,Delhi,1620,17160,2.78,Ready to move,AGENT
+1156,B Kumar and BrothersAGENT0,4,Independent,Greater,Delhi,6952,28927,20.11,Ready to move,AGENT
+1157,B Kumar and BrothersAGENT0,4,Independent,Greater,Delhi,5412,17544,9.49,Ready to move,AGENT
+1158,B Kumar and BrothersAGENT0,4,Independent,Greater,Delhi,4562,18614,8.49,Ready to move,AGENT
+1159,B Kumar and BrothersAGENT0,3,Independent,Greater,Delhi,2741,20036,5.49,Ready to move,AGENT
+1160,B Kumar and BrothersAGENT0,3,Independent,Greater,Delhi,2741,19925,5.46,Ready to move,AGENT
+1161,B Kumar and BrothersAGENT0,3,Independent,Greater,Delhi,2253,21080,4.74,Ready to move,AGENT
+1162,B Kumar and BrothersAGENT0,3,Independent,Greater,Delhi,1856,21606,4.01,Ready to move,AGENT
+1163,B Kumar and BrothersAGENT0,3,Independent,Greater,Delhi,1856,18826,3.49,Ready to move,AGENT
+1164,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,5562,63816,35.49,Ready to move,AGENT
+1165,B Kumar and BrothersAGENT0,4,Villa,Green,Delhi,4562,62461,28.49,Ready to move,AGENT
+1166,B Kumar and BrothersAGENT0,3,Villa,Green,Delhi,3621,68064,24.64,Ready to move,AGENT
+1167,B Kumar and BrothersAGENT0,3,Villa,Green,Delhi,2741,63815,17.49,Ready to move,AGENT
+1168,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,6251,16159,10.1,Ready to move,AGENT
+1169,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,5412,16648,9.01,Ready to move,AGENT
+1170,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,6251,23434,14.64,Ready to move,AGENT
+1171,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,5412,16648,9.01,Ready to move,AGENT
+1172,B Kumar and BrothersAGENT0,4,Villa,Greater,Delhi,3621,67969,24.61,Ready to move,AGENT
+1173,B Kumar and BrothersAGENT0,4,Villa,Greater,Delhi,2741,73334,20.1,Ready to move,AGENT
+1174,B Kumar and BrothersAGENT0,4,Independent,Greater,Delhi,6952,122194,84.94,Ready to move,AGENT
+1175,B Kumar and BrothersAGENT0,4,Independent,Jor,Delhi,6952,43298,30.1,Ready to move,AGENT
+1176,B Kumar and BrothersAGENT0,4,Independent,Jor,Delhi,6251,45746,28.59,Ready to move,AGENT
+1177,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,2741,19925,5.46,Ready to move,AGENT
+1178,B Kumar and BrothersAGENT0,4,Independent,Saket,Delhi,6251,20203,12.62,Ready to move,AGENT
+1179,B Kumar and BrothersAGENT0,4,Independent,Saket,Delhi,4562,17698,8.07,Ready to move,AGENT
+1180,B Kumar and BrothersAGENT0,3,Independent,Saket,Delhi,2741,20036,5.49,Ready to move,AGENT
+1181,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,6921,29189,20.2,Ready to move,AGENT
+1182,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,6952,22504,15.64,Ready to move,AGENT
+1183,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,6251,23914,14.94,Ready to move,AGENT
+1184,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,5412,17542,9.49,Ready to move,AGENT
+1185,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,4562,18621,8.49,Ready to move,AGENT
+1186,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,3621,19343,7.0,Ready to move,AGENT
+1187,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,6251,32156,20.1,Ready to move,AGENT
+1188,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,6251,23423,14.64,Ready to move,AGENT
+1189,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,6251,16159,10.1,Ready to move,AGENT
+1190,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,5412,16986,9.19,Ready to move,AGENT
+1191,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,4562,17624,8.04,Ready to move,AGENT
+1192,B Kumar and BrothersAGENT0,3,Independent,Geetanjali,Delhi,2741,21399,5.86,Ready to move,AGENT
+1193,B Kumar and BrothersAGENT0,4,Independent,West,Delhi,6251,29587,18.49,Ready to move,AGENT
+1194,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,6251,24781,15.49,Ready to move,AGENT
+1195,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,6521,18733,12.21,Ready to move,AGENT
+1196,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,5412,18664,10.1,Ready to move,AGENT
+1197,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,4569,19720,9.01,Ready to move,AGENT
+1198,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,3621,19443,7.04,Ready to move,AGENT
+1199,B Kumar and BrothersAGENT0,3,Independent,Defence,Delhi,1856,26994,5.01,Ready to move,AGENT
+1200,B Kumar and BrothersAGENT0,3,Independent,Defence,Delhi,1856,21611,4.01,Ready to move,AGENT
+1201,B Kumar and BrothersAGENT0,4,Independent,Friends,Delhi,6952,35408,24.61,Ready to move,AGENT
+1202,B Kumar and BrothersAGENT0,4,Independent,Friends,Delhi,6251,23903,14.94,Ready to move,AGENT
+1203,B Kumar and BrothersAGENT0,4,Independent,Friends,Delhi,4562,19750,9.01,Ready to move,AGENT
+1204,B Kumar and BrothersAGENT0,4,Independent,Friends,Delhi,3621,23460,8.49,Ready to move,AGENT
+1205,B Kumar and BrothersAGENT0,4,Independent,Saket,Delhi,3621,19443,7.04,Ready to move,AGENT
+1206,B Kumar and BrothersAGENT0,3,Independent,Saket,Delhi,2745,20386,5.59,Ready to move,AGENT
+1207,B Kumar and BrothersAGENT0,3,Independent,Saket,Delhi,2253,17798,4.01,Ready to move,AGENT
+1208,B Kumar and BrothersAGENT0,3,Independent,Saket,Delhi,2253,20665,4.65,Ready to move,AGENT
+1209,B Kumar and BrothersAGENT0,3,Independent,Saket,Delhi,1856,21606,4.01,Ready to move,AGENT
+1210,B Kumar and BrothersAGENT0,3,Independent,Saket,Delhi,1856,17742,3.29,Ready to move,AGENT
+1211,B Kumar and BrothersAGENT0,3,Independent,Saket,Delhi,1865,17492,3.26,Ready to move,AGENT
+1212,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,2745,19896,5.46,Ready to move,AGENT
+1213,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,5562,134752,74.94,Ready to move,AGENT
+1214,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,6521,37749,24.61,Ready to move,AGENT
+1215,B Kumar and BrothersAGENT0,4,Independent,Panchsheel,Delhi,6952,21018,14.61,Ready to move,AGENT
+1216,B Kumar and BrothersAGENT0,4,Independent,Panchsheel,Delhi,5412,17538,9.49,Ready to move,AGENT
+1217,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,2741,19926,5.46,Ready to move,AGENT
+1218,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,2856,19124,5.46,Ready to move,AGENT
+1219,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,2741,19926,5.46,Ready to move,AGENT
+1220,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,2256,21047,4.74,Ready to move,AGENT
+1221,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,2253,21080,4.74,Ready to move,AGENT
+1222,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,1856,18826,3.49,Ready to move,AGENT
+1223,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,1856,21606,4.01,Ready to move,AGENT
+1224,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,2253,20749,4.67,Ready to move,AGENT
+1225,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,1856,21606,4.01,Ready to move,AGENT
+1226,B Kumar and BrothersAGENT0,5,Independent,Sainik,Delhi,6251,46064,28.79,Ready to move,AGENT
+1227,B Kumar and BrothersAGENT0,5,Independent,Sainik,Delhi,6952,40196,27.94,Ready to move,AGENT
+1228,B Kumar and BrothersAGENT0,5,Independent,Sainik,Delhi,6251,44711,27.94,Ready to move,AGENT
+1229,B Kumar and BrothersAGENT0,4,Villa,Sainik,Delhi,6254,23891,14.94,Ready to move,AGENT
+1230,B Kumar and BrothersAGENT0,5,Independent,Sainik,Delhi,6251,23903,14.94,Ready to move,AGENT
+1231,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,2253,20396,4.59,Ready to move,AGENT
+1232,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,1856,21610,4.01,Ready to move,AGENT
+1233,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,1856,17562,3.25,Ready to move,AGENT
+1234,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,1856,17399,3.22,Ready to move,AGENT
+1235,B Kumar and BrothersAGENT0,5,Independent,Sainik,Delhi,6251,46064,28.79,Ready to move,AGENT
+1236,B Kumar and BrothersAGENT0,5,Independent,Sainik,Delhi,6251,39379,24.61,Ready to move,AGENT
+1237,B Kumar and BrothersAGENT0,4,Independent,Sainik,Delhi,5622,17068,9.59,Ready to move,AGENT
+1238,B Kumar and BrothersAGENT0,4,Villa,Sainik,Delhi,5562,15273,8.49,Ready to move,AGENT
+1239,B Kumar and BrothersAGENT0,4,Independent,Jor,Delhi,4562,24134,11.01,Ready to move,AGENT
+1240,B Kumar and BrothersAGENT0,4,Independent,Jor,Delhi,6251,39427,24.64,Ready to move,AGENT
+1241,B Kumar and BrothersAGENT0,4,Independent,Jor,Delhi,5412,37141,20.1,Ready to move,AGENT
+1242,B Kumar and BrothersAGENT0,4,Independent,Jor,Delhi,3921,30655,12.02,Ready to move,AGENT
+1243,B Kumar and BrothersAGENT0,4,Independent,Jor,Delhi,6952,43298,30.1,Ready to move,AGENT
+1244,B Kumar and BrothersAGENT0,4,Independent,Jor,Delhi,6251,44704,27.94,Ready to move,AGENT
+1245,B Kumar and BrothersAGENT0,4,Independent,Jor,Delhi,6251,49608,31.01,Ready to move,AGENT
+1246,B Kumar and BrothersAGENT0,4,Independent,Friends,Delhi,6251,30067,18.79,Ready to move,AGENT
+1247,B Kumar and BrothersAGENT0,4,Independent,Friends,Delhi,5412,20530,11.11,Ready to move,AGENT
+1248,B Kumar and BrothersAGENT0,3,Independent,Gulmohar,Delhi,2741,19926,5.46,Ready to move,AGENT
+1249,B Kumar and BrothersAGENT0,3,Independent,Gulmohar,Delhi,2253,18605,4.19,Ready to move,AGENT
+1250,B Kumar and BrothersAGENT0,3,Independent,Gulmohar,Delhi,2253,20399,4.59,Ready to move,AGENT
+1251,B Kumar and BrothersAGENT0,3,Independent,Gulmohar,Delhi,1856,21767,4.04,Ready to move,AGENT
+1252,B Kumar and BrothersAGENT0,3,Independent,Gulmohar,Delhi,1856,17580,3.26,Ready to move,AGENT
+1253,B Kumar and BrothersAGENT0,4,Independent,Maharani,Delhi,3621,24702,8.94,Ready to move,AGENT
+1254,B Kumar and BrothersAGENT0,4,Independent,West,Delhi,6251,39912,24.94,Ready to move,AGENT
+1255,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,6251,131049,81.91,Ready to move,AGENT
+1256,B Kumar and BrothersAGENT0,4,Villa,Sunder,Delhi,5562,158125,87.94,Ready to move,AGENT
+1257,Sai EstateAGENT0,3,Apartment,Kalkaji,Delhi,1850,14324,2.65,Ready to move,AGENT
+1258,Sai EstateAGENT0,2,Apartment,Kalkaji,Delhi,1000,13500,1.35,Ready to move,AGENT
+1259,Sai EstateAGENT0,3,Apartment,Kalkaji,Delhi,1800,16666,3.0,Ready to move,AGENT
+1260,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,6254,22401,14.01,Ready to move,AGENT
+1261,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,5896,28683,16.91,Ready to move,AGENT
+1262,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,4562,18421,8.4,Ready to move,AGENT
+1263,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,3621,20689,7.49,Ready to move,AGENT
+1264,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,5896,26223,15.46,Ready to move,AGENT
+1265,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,5896,26223,15.46,Ready to move,AGENT
+1266,B Kumar and BrothersAGENT0,3,Independent,Green,Delhi,2745,18803,5.16,Ready to move,AGENT
+1267,B Kumar and BrothersAGENT0,3,Independent,Green,Delhi,2253,21080,4.74,Ready to move,AGENT
+1268,B Kumar and BrothersAGENT0,3,Independent,Green,Delhi,1856,21606,4.01,Ready to move,AGENT
+1269,B Kumar and BrothersAGENT0,3,Independent,Green,Delhi,1856,19538,3.62,Ready to move,AGENT
+1270,B Kumar and BrothersAGENT0,4,Independent,Safdarjung,Delhi,3621,19453,7.04,Ready to move,AGENT
+1271,B Kumar and BrothersAGENT0,4,Independent,Panchsheel,Delhi,3621,23334,8.44,Ready to move,AGENT
+1272,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,2741,20964,5.74,Ready to move,AGENT
+1273,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,2253,21213,4.77,Ready to move,AGENT
+1274,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,2253,20218,4.55,Ready to move,AGENT
+1275,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,1856,21606,4.01,Ready to move,AGENT
+1276,B Kumar and BrothersAGENT0,3,Independent,Panchsheel,Delhi,1856,19518,3.62,Ready to move,AGENT
+1277,B Kumar and BrothersAGENT0,4,Independent,Greater,Delhi,6521,23710,15.46,Ready to move,AGENT
+1278,B Kumar and BrothersAGENT0,4,Independent,Greater,Delhi,6251,17613,11.01,Ready to move,AGENT
+1279,B Kumar and BrothersAGENT0,4,Independent,Greater,Delhi,3621,20447,7.4,Ready to move,AGENT
+1280,B Kumar and BrothersAGENT0,3,Independent,Greater,Delhi,2741,21508,5.89,Ready to move,AGENT
+1281,B Kumar and BrothersAGENT0,3,Independent,Greater,Delhi,2741,19926,5.46,Ready to move,AGENT
+1282,B Kumar and BrothersAGENT0,3,Independent,Greater,Delhi,2241,21327,4.77,Ready to move,AGENT
+1283,B Kumar and BrothersAGENT0,3,Independent,Greater,Delhi,1856,21441,3.97,Ready to move,AGENT
+1284,B Kumar and BrothersAGENT0,4,Independent,West,Delhi,5562,38053,21.16,Ready to move,AGENT
+1285,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,1856,18826,3.49,Ready to move,AGENT
+1286,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,1852,17420,3.22,Ready to move,AGENT
+1287,B Kumar and BrothersAGENT0,4,Villa,Greater,Delhi,6952,107621,74.81,Ready to move,AGENT
+1288,B Kumar and BrothersAGENT0,3,Independent,Safdarjung,Delhi,1852,17616,3.26,Ready to move,AGENT
+1289,B Kumar and BrothersAGENT0,4,Independent,Geetanjali,Delhi,3621,19443,7.04,Ready to move,AGENT
+1290,B Kumar and BrothersAGENT0,3,Independent,Geetanjali,Delhi,2741,21508,5.89,Ready to move,AGENT
+1291,B Kumar and BrothersAGENT0,4,Villa,Panchsheel,Delhi,6952,92723,64.46,Ready to move,AGENT
+1292,B Kumar and BrothersAGENT0,3,Villa,Panchsheel,Delhi,1852,79058,14.64,Ready to move,AGENT
+1293,B Kumar and BrothersAGENT0,4,Independent,Panchsheel,Delhi,6251,23386,14.61,Ready to move,AGENT
+1294,B Kumar and BrothersAGENT0,4,Independent,Panchsheel,Delhi,6251,16159,10.1,Ready to move,AGENT
+1295,B Kumar and BrothersAGENT0,4,Independent,Panchsheel,Delhi,4592,17517,8.04,Ready to move,AGENT
+1296,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,6952,20831,14.48,Ready to move,AGENT
+1297,B Kumar and BrothersAGENT0,3,Independent,Defence,Delhi,2745,22785,6.25,Ready to move,AGENT
+1298,B Kumar and BrothersAGENT0,3,Independent,Defence,Delhi,2745,23537,6.46,Ready to move,AGENT
+1299,B Kumar and BrothersAGENT0,3,Independent,Defence,Delhi,2741,22036,6.04,Ready to move,AGENT
+1300,B Kumar and BrothersAGENT0,3,Independent,Defence,Delhi,2741,21926,6.01,Ready to move,AGENT
+1301,B Kumar and BrothersAGENT0,3,Independent,Defence,Delhi,2745,19897,5.46,Ready to move,AGENT
+1302,B Kumar and BrothersAGENT0,3,Independent,Defence,Delhi,2253,24243,5.46,Ready to move,AGENT
+1303,B Kumar and BrothersAGENT0,3,Independent,Defence,Delhi,2253,24376,5.49,Ready to move,AGENT
+1304,B Kumar and BrothersAGENT0,3,Independent,Defence,Delhi,1856,26994,5.01,Ready to move,AGENT
+1305,B Kumar and BrothersAGENT0,3,Independent,Defence,Delhi,1856,21606,4.01,Ready to move,AGENT
+1306,B Kumar and BrothersAGENT0,4,Independent,Panchsheel,Delhi,6251,17855,11.16,Ready to move,AGENT
+1307,B Kumar and BrothersAGENT0,5,Villa,Niti,Delhi,6952,94834,65.92,Ready to move,AGENT
+1308,B Kumar and BrothersAGENT0,4,Independent,Niti,Delhi,6952,27035,18.79,Ready to move,AGENT
+1309,B Kumar and BrothersAGENT0,4,Independent,Niti,Delhi,5412,16650,9.01,Ready to move,AGENT
+1310,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,4592,49933,22.92,Ready to move,AGENT
+1311,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,5895,41813,24.64,Ready to move,AGENT
+1312,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,5412,74667,40.41,Ready to move,AGENT
+1313,B Kumar and BrothersAGENT0,3,Independent,Niti,Delhi,2745,19897,5.46,Ready to move,AGENT
+1314,B Kumar and BrothersAGENT0,3,Independent,Niti,Delhi,1856,19371,3.59,Ready to move,AGENT
+1315,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,6952,122193,84.94,Ready to move,AGENT
+1316,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,6251,22687,14.18,Ready to move,AGENT
+1317,B Kumar and BrothersAGENT0,3,Independent,Niti,Delhi,2745,20006,5.49,Ready to move,AGENT
+1318,B Kumar and BrothersAGENT0,3,Independent,Niti,Delhi,2253,21280,4.79,Ready to move,AGENT
+1319,B Kumar and BrothersAGENT0,3,Independent,Niti,Delhi,2253,21080,4.74,Ready to move,AGENT
+1320,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,5412,100922,54.61,Ready to move,AGENT
+1321,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,4562,65982,30.1,Ready to move,AGENT
+1322,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,5862,41993,24.61,Ready to move,AGENT
+1323,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,5412,59613,32.26,Ready to move,AGENT
+1324,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,6952,35877,24.94,Ready to move,AGENT
+1325,B Kumar and BrothersAGENT0,3,Independent,Green,Delhi,2256,21209,4.78,Ready to move,AGENT
+1326,B Kumar and BrothersAGENT0,3,Independent,Green,Delhi,1856,18810,3.49,Ready to move,AGENT
+1327,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,6952,47357,32.92,Ready to move,AGENT
+1328,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,5211,62596,32.61,Ready to move,AGENT
+1329,B Kumar and BrothersAGENT0,3,Villa,Niti,Delhi,2741,93260,25.56,Ready to move,AGENT
+1330,B Kumar and BrothersAGENT0,3,Villa,Niti,Delhi,1856,78928,14.64,Ready to move,AGENT
+1331,B Kumar and BrothersAGENT0,4,Independent,Niti,Delhi,4562,18620,8.49,Ready to move,AGENT
+1332,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,6251,43928,27.45,Ready to move,AGENT
+1333,B Kumar and BrothersAGENT0,3,Villa,Defence,Delhi,3621,67638,24.49,Ready to move,AGENT
+1334,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,5562,33252,18.49,Ready to move,AGENT
+1335,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,3621,19443,7.04,Ready to move,AGENT
+1336,B Kumar and BrothersAGENT0,4,Independent,Panchsheel,Delhi,4562,18774,8.56,Ready to move,AGENT
+1337,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,5412,74650,40.4,Ready to move,AGENT
+1338,B Kumar and BrothersAGENT0,3,Independent,Niti,Delhi,1856,21277,3.94,Ready to move,AGENT
+1339,B Kumar and BrothersAGENT0,3,Villa,Defence,Delhi,2745,67376,18.49,Ready to move,AGENT
+1340,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,5412,16985,9.19,Ready to move,AGENT
+1341,B Kumar and BrothersAGENT0,4,Independent,Defence,Delhi,5412,16650,9.01,Ready to move,AGENT
+1342,B Kumar and BrothersAGENT0,3,Independent,Green,Delhi,1856,17578,3.26,Ready to move,AGENT
+1343,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,5895,55848,32.92,Ready to move,AGENT
+1344,B Kumar and BrothersAGENT0,4,Independent,Sunder,Delhi,6521,42849,27.94,Ready to move,AGENT
+1345,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,4569,18585,8.49,Ready to move,AGENT
+1346,B Kumar and BrothersAGENT0,4,Independent,Green,Delhi,3621,19453,7.04,Ready to move,AGENT
+1347,B Kumar and BrothersAGENT0,3,Independent,Green,Delhi,2745,21346,5.85,Ready to move,AGENT
+1348,B Kumar and BrothersAGENT0,3,Independent,Green,Delhi,2741,20036,5.49,Ready to move,AGENT
+1349,B Kumar and BrothersAGENT0,3,Independent,Green,Delhi,2253,20399,4.59,Ready to move,AGENT
+1350,B Kumar and BrothersAGENT0,3,Independent,Green,Delhi,2251,21672,4.87,Ready to move,AGENT
+1351,B Kumar and BrothersAGENT0,4,Villa,Safdarjung,Delhi,3621,55537,20.11,Ready to move,AGENT
+1352,B Kumar and BrothersAGENT0,4,Independent,Safdarjung,Delhi,6251,23167,14.48,Ready to move,AGENT
+1353,B Kumar and BrothersAGENT0,4,Independent,Safdarjung,Delhi,6251,23374,14.61,Ready to move,AGENT
+1354,B Kumar and BrothersAGENT0,4,Independent,Safdarjung,Delhi,4562,18592,8.48,Ready to move,AGENT
+1355,B Kumar and BrothersAGENT0,4,Independent,Safdarjung,Delhi,3621,19442,7.04,Ready to move,AGENT
+1356,B Kumar and BrothersAGENT0,4,Independent,Aurungzeb,Delhi,5569,44261,24.64,Ready to move,AGENT
+1357,B Kumar and BrothersAGENT0,5,Independent,Babar,Delhi,6521,150206,97.94,Ready to move,AGENT
+1358,B Kumar and BrothersAGENT0,4,Villa,Babar,Delhi,6521,150245,97.97,Ready to move,AGENT
+1359,B Kumar and BrothersAGENT0,4,Independent,Babar,Delhi,5896,46616,27.48,Ready to move,AGENT
+1360,B Kumar and BrothersAGENT0,4,Independent,Babar,Delhi,5896,68523,40.4,Ready to move,AGENT
+1361,B Kumar and BrothersAGENT0,4,Independent,Babar,Delhi,6251,37689,23.55,Ready to move,AGENT
+1362,B Kumar and BrothersAGENT0,4,Independent,Babar,Delhi,5211,47244,24.61,Ready to move,AGENT
+1363,B Kumar and BrothersAGENT0,5,Villa,Connaught,Delhi,6521,137701,89.79,Ready to move,AGENT
+1364,B Kumar and BrothersAGENT0,4,Villa,Connaught,Delhi,5896,169433,99.89,Ready to move,AGENT
+1365,B Kumar and BrothersAGENT0,5,Independent,Connaught,Delhi,6521,130270,84.94,Ready to move,AGENT
+1366,B Kumar and BrothersAGENT0,4,Independent,Connaught,Delhi,5896,68029,40.11,Ready to move,AGENT
+1367,B Kumar and BrothersAGENT0,4,Independent,Connaught,Delhi,5563,72101,40.11,Ready to move,AGENT
+1368,B Kumar and BrothersAGENT0,4,Independent,Connaught,Delhi,5569,51687,28.78,Ready to move,AGENT
+1369,B Kumar and BrothersAGENT0,4,Independent,Connaught,Delhi,6251,48155,30.1,Ready to move,AGENT
+1370,B Kumar and BrothersAGENT0,4,Independent,Connaught,Delhi,5561,42360,23.55,Ready to move,AGENT
+1371,B Kumar and BrothersAGENT0,4,Villa,Tuglak,Delhi,5569,157925,87.94,Ready to move,AGENT
+1372,B Kumar and BrothersAGENT0,4,Independent,Tuglak,Delhi,5896,46616,27.48,Ready to move,AGENT
+1373,B Kumar and BrothersAGENT0,4,Villa,Babar,Delhi,5569,152346,84.84,Ready to move,AGENT
+1374,B Kumar and BrothersAGENT0,4,Independent,Tuglak,Delhi,5891,46519,27.4,Ready to move,AGENT
+1375,B Kumar and BrothersAGENT0,4,Independent,Tuglak,Delhi,5896,39953,23.55,Ready to move,AGENT
+1376,B Kumar and BrothersAGENT0,4,Independent,Tuglak,Delhi,6251,43968,27.48,Ready to move,AGENT
+1377,B Kumar and BrothersAGENT0,4,Independent,Tuglak,Delhi,5569,44787,24.94,Ready to move,AGENT
+1378,B Kumar and BrothersAGENT0,4,Villa,Tuglak,Delhi,5569,152539,84.94,Ready to move,AGENT
+1379,B Kumar and BrothersAGENT0,4,Villa,Tuglak,Delhi,6521,151197,98.59,Ready to move,AGENT
+1380,B Kumar and BrothersAGENT0,4,Independent,Chattarpur,Delhi,5896,26146,15.41,Ready to move,AGENT
+1381,B Kumar and BrothersAGENT0,5,Penthouse,Chattarpur,Delhi,6251,27987,17.49,Ready to move,AGENT
+1382,B Kumar and BrothersAGENT0,5,Villa,Chattarpur,Delhi,6251,24734,15.46,Ready to move,AGENT
+1383,B Kumar and BrothersAGENT0,4,Independent,Lodhi,Delhi,5896,144078,84.94,Ready to move,AGENT
+1384,B Kumar and BrothersAGENT0,5,Villa,Lodhi,Delhi,6251,156694,97.94,Ready to move,AGENT
+1385,B Kumar and BrothersAGENT0,4,Independent,Tilak,Delhi,5569,177670,98.94,Ready to move,AGENT
+1386,B Kumar and BrothersAGENT0,5,Villa,Tilak,Delhi,6521,137701,89.79,Ready to move,AGENT
+1387,B Kumar and BrothersAGENT0,4,Independent,Tilak,Delhi,5896,68538,40.41,Ready to move,AGENT
+1388,B Kumar and BrothersAGENT0,4,Independent,Tilak,Delhi,5896,51054,30.1,Ready to move,AGENT
+1389,B Kumar and BrothersAGENT0,4,Independent,Tilak,Delhi,5561,51239,28.49,Ready to move,AGENT
+1390,B Kumar and BrothersAGENT0,4,Independent,Tilak,Delhi,4562,66001,30.11,Ready to move,AGENT
+1391,B Kumar and BrothersAGENT0,4,Independent,Tilak,Delhi,4562,54025,24.64,Ready to move,AGENT
+1392,B Kumar and BrothersAGENT0,4,Villa,Lodhi,Delhi,5896,151960,89.59,Ready to move,AGENT
+1393,B Kumar and BrothersAGENT0,4,Villa,Lodhi,Delhi,6251,103122,64.46,Ready to move,AGENT
+1394,B Kumar and BrothersAGENT0,5,Independent,Lodhi,Delhi,6521,39096,25.49,Ready to move,AGENT
+1395,B Kumar and BrothersAGENT0,4,Independent,Lodhi,Delhi,5896,46616,27.48,Ready to move,AGENT
+1396,B Kumar and BrothersAGENT0,4,Villa,Lodhi,Delhi,5896,51053,30.1,Ready to move,AGENT
+1397,B Kumar and BrothersAGENT0,4,Independent,Lodhi,Delhi,5896,41794,24.64,Ready to move,AGENT
+1398,B Kumar and BrothersAGENT0,4,Independent,Lodhi,Delhi,5562,54135,30.11,Ready to move,AGENT
+1399,B Kumar and BrothersAGENT0,4,Independent,Tilak,Delhi,5569,157738,87.84,Ready to move,AGENT
+1400,malik katyal associatesAGENT0,4,Independent,Preet,Delhi,3240,16358,5.3,Ready to move,AGENT
+1401,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,2156,22632,4.87,Ready to move,AGENT
+1402,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,2253,20236,4.55,Ready to move,AGENT
+1403,B Kumar and BrothersAGENT0,3,Independent,Sarvodaya,Delhi,1856,21279,3.94,Ready to move,AGENT
+1404,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,1856,21611,4.01,Ready to move,AGENT
+1405,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,1856,21606,4.01,Ready to move,AGENT
+1406,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,1856,21557,4.0,Ready to move,AGENT
+1407,B Kumar and BrothersAGENT0,4,Independent,Sarvodaya,Delhi,5412,16849,9.11,Ready to move,AGENT
+1408,B Kumar and BrothersAGENT0,5,Independent,Sarvodaya,Delhi,6521,77294,50.4,Ready to move,AGENT
+1409,B Kumar and BrothersAGENT0,4,Villa,Sarvodaya,Delhi,2745,67376,18.49,Ready to move,AGENT
+1410,B Kumar and BrothersAGENT0,3,Villa,Sarvodaya,Delhi,1856,64763,12.02,Ready to move,AGENT
+1411,B Kumar and BrothersAGENT0,4,Villa,Sarvodaya,Delhi,5896,68013,40.1,Ready to move,AGENT
+1412,B Kumar and BrothersAGENT0,4,Villa,Sarvodaya,Delhi,4562,65982,30.1,Ready to move,AGENT
+1413,B Kumar and BrothersAGENT0,4,Villa,Sarvodaya,Delhi,3652,67064,24.49,Ready to move,AGENT
+1414,B Kumar and BrothersAGENT0,4,Independent,Sarvodaya,Delhi,4562,19079,8.7,Ready to move,AGENT
+1415,B Kumar and BrothersAGENT0,4,Independent,Sarvodaya,Delhi,3621,20447,7.4,Ready to move,AGENT
+1416,B Kumar and BrothersAGENT0,4,Independent,Sarvodaya,Delhi,5569,33210,18.49,Ready to move,AGENT
+1417,B Kumar and BrothersAGENT0,5,Independent,Sarvodaya,Delhi,6521,23715,15.46,Ready to move,AGENT
+1418,B Kumar and BrothersAGENT0,4,Independent,Sarvodaya,Delhi,6281,19138,12.02,Ready to move,AGENT
+1419,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,2745,20570,5.64,Ready to move,AGENT
+1420,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,2745,22004,6.04,Ready to move,AGENT
+1421,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,2745,18362,5.04,Ready to move,AGENT
+1422,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,2745,20006,5.49,Ready to move,AGENT
+1423,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,2256,20365,4.59,Ready to move,AGENT
+1424,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,2253,20193,4.54,Ready to move,AGENT
+1425,B Kumar and BrothersAGENT0,3,Independent,Navjeevan,Delhi,2564,23518,6.03,Ready to move,AGENT
+1426,B Kumar and BrothersAGENT0,4,Independent,Navjeevan,Delhi,6251,24739,15.46,Ready to move,AGENT
+1427,B Kumar and BrothersAGENT0,4,Independent,Navjeevan,Delhi,6251,17629,11.02,Ready to move,AGENT
+1428,B Kumar and BrothersAGENT0,4,Independent,Navjeevan,Delhi,5412,16704,9.04,Ready to move,AGENT
+1429,B Kumar and BrothersAGENT0,4,Independent,Navjeevan,Delhi,4562,17632,8.04,Ready to move,AGENT
+1430,B Kumar and BrothersAGENT0,4,Independent,Navjeevan,Delhi,3621,19443,7.04,Ready to move,AGENT
+1431,Growmax Wealth Management ServicesAGENT0,4,Apartment,Shanti,Delhi,2302,7819,1.8,Ready to move,AGENT
+1432,Growmax Wealth Management ServicesAGENT0,3,Apartment,Shanti,Delhi,1843,8247,1.52,Ready to move,AGENT
+1433,B Kumar and BrothersAGENT0,4,Independent,Hauz,Delhi,6521,23756,15.49,Ready to move,AGENT
+1434,B Kumar and BrothersAGENT0,4,Independent,Hauz,Delhi,6251,16349,10.22,Ready to move,AGENT
+1435,B Kumar and BrothersAGENT0,4,Independent,Hauz,Delhi,5412,16648,9.01,Ready to move,AGENT
+1436,B Kumar and BrothersAGENT0,4,Independent,Hauz,Delhi,4562,17632,8.04,Ready to move,AGENT
+1437,B Kumar and BrothersAGENT0,4,Independent,Hauz,Delhi,3621,19453,7.04,Ready to move,AGENT
+1438,B Kumar and BrothersAGENT0,5,Independent,Hauz,Delhi,6521,26813,17.48,Ready to move,AGENT
+1439,AMIT GAUTAMAGENT0,3,Apartment,Burari,Delhi,900,5000,0.45,Ready to move,AGENT
+1440,Jagdamba AssociatesAGENT0,3,Independent,Rohini,Delhi,1150,12173,1.4,Ready to move,AGENT
+1441,Jagdamba AssociatesAGENT0,2,Apartment,Sector,Delhi,900,13888,1.25,Ready to move,AGENT
+1442,Jagdamba AssociatesAGENT0,2,Apartment,Sector,Delhi,950,16842,1.6,Ready to move,AGENT
+1443,Yogesh SharmaAGENT0,3,Apartment,Sector,Delhi,1750,9428,1.65,Ready to move,AGENT
+1444,Jagdamba AssociatesAGENT0,3,Independent,Rohini,Delhi,1150,13217,1.52,Ready to move,AGENT
+1445,Khanna PropertiesBUILDER0,2,Apartment,Sector,Delhi,500,4000,0.2,Ready to move,BUILDER
+1446,CHILLAR HOMESAGENT0,4,Independent,Sector,Delhi,1890,13121,2.48,Under Construction,AGENT
+1447,Earth Care AssociatesAGENT0,3,Apartment,Dwarka,Delhi,1400,3928,0.55,Ready to move,AGENT
+1448,Earth Care AssociatesAGENT0,2,Apartment,Dwarka,Delhi,1300,2692,0.35,Ready to move,AGENT
+1449,Jagdamba AssociatesAGENT0,4,Independent,Pitampura,Delhi,2475,22626,5.6,Ready to move,AGENT
+1450,Jas buildtech LtdAGENT0,3,Independent,Sector,Delhi,1025,19024,1.95,Ready to move,AGENT
+1451,Jagdamba AssociatesAGENT0,2,Independent,Sector,Delhi,720,12500,0.9,Ready to move,AGENT
+1452,Yogesh SharmaAGENT0,3,Apartment,Sector,Delhi,1700,8823,1.5,Ready to move,AGENT
+1453,Jagdamba AssociatesAGENT0,3,Independent,Sector,Delhi,1350,12592,1.7,Ready to move,AGENT
+1454,Yogesh SharmaAGENT0,3,Apartment,Sector,Delhi,2000,15750,3.15,Ready to move,AGENT
+1455,Jagdamba AssociatesAGENT0,3,Independent,Sector,Delhi,1000,12500,1.25,Ready to move,AGENT
+1456,Yogesh SharmaAGENT0,3,Apartment,Sector,Delhi,1600,9062,1.45,Ready to move,AGENT
+1457,B Kumar and BrothersAGENT0,5,Independent,Ghitorni,Delhi,6251,24783,15.49,Ready to move,AGENT
+1458,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vadapalani,Chennai,628,9800,0.6154,Ready to move, â§ AGENT
+1459,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vadapalani,Chennai,1777,10500,1.86,Ready to move, â§ AGENT
+1460,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vadapalani,Chennai,638,9800,0.6252,Ready to move, â§ AGENT
+1461,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vadapalani,Chennai,1080,10500,1.13,Ready to move, â§ AGENT
+1462,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vadapalani,Chennai,1077,10500,1.13,Ready to move, â§ AGENT
+1463,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vadapalani,Chennai,1434,10500,1.5,Ready to move, â§ AGENT
+1464,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vadapalani,Chennai,1428,10500,1.49,Ready to move, â§ AGENT
+1465,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vadapalani,Chennai,1423,10500,1.49,Ready to move, â§ AGENT
+1466,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vadapalani,Chennai,1163,10500,1.22,Ready to move, â§ AGENT
+1467,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vadapalani,Chennai,1421,10500,1.49,Ready to move, â§ AGENT
+1468,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vadapalani,Chennai,1168,10500,1.22,Ready to move, â§ AGENT
+1469,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vadapalani,Chennai,1680,10500,1.76,Ready to move, â§ AGENT
+1470,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vadapalani,Chennai,1645,10500,1.72,Ready to move, â§ AGENT
+1471,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vadapalani,Chennai,1707,10500,1.79,Ready to move, â§ AGENT
+1472,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vadapalani,Chennai,983,10500,1.03,Ready to move, â§ AGENT
+1473,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vadapalani,Chennai,980,10500,1.02,Ready to move, â§ AGENT
+1474,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vadapalani,Chennai,2400,9700,2.32,Ready to move, â§ AGENT
+1475,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vadapalani,Chennai,2272,9700,2.2,Ready to move, â§ AGENT
+1476,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Vadapalani,Chennai,2908,9700,2.82,Ready to move, â§ AGENT
+1477,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vadapalani,Chennai,631,9500,0.5993999999999999,Ready to move, â§ AGENT
+1478,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vadapalani,Chennai,979,10500,1.02,Ready to move, â§ AGENT
+1479,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Vadapalani,Chennai,981,10500,1.03,Ready to move, â§ AGENT
+1480,ProptigerCity Expert â§ AGENT4.81 Rating,1,Apartment,Vadapalani,Chennai,631,9800,0.6183,Ready to move, â§ AGENT
+1481,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thaiyur,Chennai,1068,3800,0.4058,Under Construction, â§ AGENT
+1482,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thaiyur,Chennai,1042,3800,0.39590000000000003,Under Construction, â§ AGENT
+1483,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thaiyur,Chennai,1033,3800,0.3925,Under Construction, â§ AGENT
+1484,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thaiyur,Chennai,1505,3800,0.5719,Under Construction, â§ AGENT
+1485,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thaiyur,Chennai,1518,3800,0.5768,Under Construction, â§ AGENT
+1486,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thaiyur,Chennai,1525,3800,0.5795,Under Construction, â§ AGENT
+1487,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thaiyur,Chennai,1538,3800,0.5844,Under Construction, â§ AGENT
+1488,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thaiyur,Chennai,1294,3800,0.4917,Under Construction, â§ AGENT
+1489,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thaiyur,Chennai,1274,3800,0.4841,Under Construction, â§ AGENT
+1490,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thaiyur,Chennai,1078,3800,0.4096,Under Construction, â§ AGENT
+1491,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thaiyur,Chennai,1370,3800,0.5206000000000001,Under Construction, â§ AGENT
+1492,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thaiyur,Chennai,1390,3800,0.5282,Under Construction, â§ AGENT
+1493,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thaiyur,Chennai,1425,3800,0.5415,Under Construction, â§ AGENT
+1494,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thaiyur,Chennai,1552,3800,0.5897,Under Construction, â§ AGENT
+1495,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thiruvanmiyur,Chennai,1430,12500,1.78,Ready to move, â§ AGENT
+1496,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thiruvanmiyur,Chennai,1531,12500,1.91,Ready to move, â§ AGENT
+1497,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thiruvanmiyur,Chennai,1832,12500,2.29,Ready to move, â§ AGENT
+1498,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thiruvanmiyur,Chennai,1871,12500,2.33,Ready to move, â§ AGENT
+1499,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thiruvanmiyur,Chennai,1937,12500,2.42,Ready to move, â§ AGENT
+1500,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thiruvanmiyur,Chennai,1969,12500,2.46,Ready to move, â§ AGENT
+1501,ProptigerCity Expert â§ AGENT4.81 Rating,2,Apartment,Thiruvanmiyur,Chennai,1431,12500,1.78,Ready to move, â§ AGENT
+1502,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thiruvanmiyur,Chennai,1831,12500,2.28,Ready to move, â§ AGENT
+1503,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thiruvanmiyur,Chennai,1938,12500,2.42,Ready to move, â§ AGENT
+1504,ProptigerCity Expert â§ AGENT4.81 Rating,3,Apartment,Thiruvanmiyur,Chennai,1970,12500,2.46,Ready to move, â§ AGENT
+1505,ProptigerAGENT0,3,Apartment,Perungudi,Chennai,1006,7200,0.7243,Under Construction,AGENT
+1506,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1127,4850,0.7167,Under Construction,AGENT
+1507,ProptigerAGENT0,2,Apartment,Kanathur,Chennai,600,4749,0.2849,Ready to move,AGENT
+1508,ProptigerAGENT0,2,Apartment,Kanathur,Chennai,1100,4749,0.5223,Ready to move,AGENT
+1509,ProptigerAGENT0,2,Apartment,Kanathur,Chennai,1100,4299,0.4728,Ready to move,AGENT
+1510,ProptigerAGENT0,2,Apartment,Kanathur,Chennai,1226,4299,0.527,Ready to move,AGENT
+1511,Dee Star PropertiesAGENT0,3,Apartment,Porur,Chennai,1399,6647,0.93,Under Construction,AGENT
+1512,Bharathi ConstructionBUILDER0,2,Apartment,Anakaputhur,Chennai,786,5000,0.39299999999999996,Under Construction,BUILDER
+1513,meenatchi realsBUILDER0,2,Independent,Maraimalai,Chennai,600,3916,0.235,Under Construction,BUILDER
+1514,BaluAGENT0,2,Apartment,Valasaravakkam,Chennai,854,7500,0.6405,Ready to move,AGENT
+1515,Samsur propertiesAGENT0,3,Villa,Perumanttunallur,Chennai,1167,5569,0.65,Under Construction,AGENT
+1516,PROPLEAFAGENT0,2,Apartment,East,Chennai,1027,6950,0.7137,Under Construction,AGENT
+1517,KISHORE PROMOTORSBUILDER0,2,Apartment,Korattur,Chennai,540,4629,0.25,Ready to move,BUILDER
+1518,MYPROP TELLERAGENT0,2,Apartment,Ayanambakkam,Chennai,870,5400,0.4698,Under Construction,AGENT
+1519,MYPROP TELLERAGENT0,3,Apartment,Ayanambakkam,Chennai,1305,5400,0.7047,Under Construction,AGENT
+1520,MYPROP TELLERAGENT0,2,Apartment,Ayanambakkam,Chennai,858,5400,0.4633,Under Construction,AGENT
+1521,MYPROP TELLERAGENT0,2,Apartment,Ayanambakkam,Chennai,890,5400,0.4806,Under Construction,AGENT
+1522,MYPROP TELLERAGENT0,3,Apartment,Ayanambakkam,Chennai,1285,5400,0.6939,Under Construction,AGENT
+1523,MYPROP TELLERAGENT0,2,Apartment,Ayanambakkam,Chennai,848,5400,0.4579,Under Construction,AGENT
+1524,INSTAPROPAGENT0,3,Apartment,Kotturpuram,Chennai,1976,17611,3.48,Under Construction,AGENT
+1525,ProptigerAGENT0,4,Apartment,Padur,Chennai,2223,4275,0.9503,Ready to move,AGENT
+1526,vetrirealsBUILDER0,2,Independent,Vandalur,Chennai,800,4212,0.3369,Under Construction,BUILDER
+1527,Franch RealtyAGENT0,3,Apartment,Mogappair,Chennai,1393,6424,0.895,Ready to move,AGENT
+1528,ProptigerAGENT0,3,Apartment,Navallur,Chennai,1445,6350,1.2,Under Construction,AGENT
+1529,ProptigerAGENT0,4,Apartment,Navallur,Chennai,2945,6350,1.87,Under Construction,AGENT
+1530,ProptigerAGENT0,3,Apartment,Navallur,Chennai,2165,6350,1.37,Under Construction,AGENT
+1531,ProptigerAGENT0,2,Apartment,Navallur,Chennai,1295,6350,0.8223,Under Construction,AGENT
+1532,ProptigerAGENT0,1,Apartment,Perungudi,Chennai,600,7200,0.54,Under Construction,AGENT
+1533,ProptigerAGENT0,2,Apartment,Perungudi,Chennai,867,7200,0.76,Under Construction,AGENT
+1534,ProptigerAGENT0,3,Apartment,Perungudi,Chennai,1006,7200,0.88,Under Construction,AGENT
+1535,ProptigerAGENT0,2,Apartment,Thalambur,Chennai,900,3199,0.2879,Under Construction,AGENT
+1536,ProptigerAGENT0,2,Apartment,Thalambur,Chennai,880,3199,0.38380000000000003,Under Construction,AGENT
+1537,ProptigerAGENT0,2,Apartment,Thalambur,Chennai,910,3199,0.3956,Under Construction,AGENT
+1538,ProptigerAGENT0,4,Villa,Padur,Chennai,2185,6200,1.35,Under Construction,AGENT
+1539,ProptigerAGENT0,5,Villa,Padur,Chennai,3812,6200,2.36,Under Construction,AGENT
+1540,ProptigerAGENT0,3,Apartment,Thalambur,Chennai,1200,3199,0.5094,Under Construction,AGENT
+1541,ProptigerAGENT0,2,Apartment,Thalambur,Chennai,960,3199,0.4152,Under Construction,AGENT
+1542,ProptigerAGENT0,1,Apartment,Perungudi,Chennai,700,7999,0.5599000000000001,Under Construction,AGENT
+1543,ProptigerAGENT0,2,Apartment,Perungudi,Chennai,1000,7999,0.7998999999999999,Under Construction,AGENT
+1544,ProptigerAGENT0,3,Apartment,Perungudi,Chennai,1250,7999,0.9998,Under Construction,AGENT
+1545,ProptigerAGENT0,2,Apartment,Perungudi,Chennai,869,7999,0.6951,Under Construction,AGENT
+1546,ProptigerAGENT0,3,Apartment,Perungudi,Chennai,1005,7999,0.8038,Under Construction,AGENT
+1547,ProptigerAGENT0,2,Apartment,Perungudi,Chennai,1184,7999,0.9470000000000001,Under Construction,AGENT
+1548,ProptigerAGENT0,2,Apartment,Perungudi,Chennai,1187,7999,0.9494,Under Construction,AGENT
+1549,ProptigerAGENT0,2,Apartment,Perungudi,Chennai,1188,7999,0.9501999999999999,Under Construction,AGENT
+1550,ProptigerAGENT0,2,Apartment,Perungudi,Chennai,1222,7999,0.9773999999999999,Under Construction,AGENT
+1551,ProptigerAGENT0,3,Apartment,Perungudi,Chennai,1629,7999,1.3,Under Construction,AGENT
+1552,ProptigerAGENT0,3,Apartment,Perungudi,Chennai,1638,7999,1.31,Under Construction,AGENT
+1553,ProptigerAGENT0,3,Apartment,Perungudi,Chennai,1723,7999,1.37,Under Construction,AGENT
+1554,ProptigerAGENT0,3,Apartment,Perungudi,Chennai,1734,7999,1.38,Under Construction,AGENT
+1555,ProptigerAGENT0,2,Apartment,Porur,Chennai,968,5099,0.69,Under Construction,AGENT
+1556,ProptigerAGENT0,3,Apartment,Porur,Chennai,1213,5099,0.8,Under Construction,AGENT
+1557,ProptigerAGENT0,3,Apartment,Porur,Chennai,1231,5099,0.85,Under Construction,AGENT
+1558,ProptigerAGENT0,3,Apartment,Porur,Chennai,1399,5099,0.93,Under Construction,AGENT
+1559,ProptigerAGENT0,3,Apartment,Porur,Chennai,1542,5099,1.08,Under Construction,AGENT
+1560,ProptigerAGENT0,3,Apartment,Porur,Chennai,1751,5099,1.16,Under Construction,AGENT
+1561,ProptigerAGENT0,4,Apartment,Porur,Chennai,1971,5099,1.38,Under Construction,AGENT
+1562,ProptigerAGENT0,4,Apartment,Porur,Chennai,2573,5099,1.87,Under Construction,AGENT
+1563,ProptigerAGENT0,4,Apartment,Porur,Chennai,2424,5099,1.85,Under Construction,AGENT
+1564,ProptigerAGENT0,2,Apartment,Porur,Chennai,860,5099,0.62,Under Construction,AGENT
+1565,ProptigerAGENT0,3,Apartment,Porur,Chennai,1565,5099,0.96,Under Construction,AGENT
+1566,ProptigerAGENT0,3,Apartment,Porur,Chennai,1208,5099,0.77,Under Construction,AGENT
+1567,ProptigerAGENT0,2,Apartment,Mogappair,Chennai,900,7210,0.6489,Under Construction,AGENT
+1568,ProptigerAGENT0,2,Apartment,Mogappair,Chennai,1062,7210,0.85,Under Construction,AGENT
+1569,ProptigerAGENT0,2,Apartment,Mogappair,Chennai,1288,7210,0.94,Under Construction,AGENT
+1570,ProptigerAGENT0,3,Apartment,Navallur,Chennai,2165,6350,1.37,Under Construction,AGENT
+1571,ProptigerAGENT0,3,Apartment,Navallur,Chennai,1765,6350,1.36,Under Construction,AGENT
+1572,ProptigerAGENT0,4,Apartment,Navallur,Chennai,2945,6350,1.87,Under Construction,AGENT
+1573,ProptigerAGENT0,5,Apartment,Navallur,Chennai,3460,6350,2.19,Under Construction,AGENT
+1574,ProptigerAGENT0,3,Apartment,Navallur,Chennai,2178,6350,1.69,Under Construction,AGENT
+1575,ProptigerAGENT0,4,Apartment,Navallur,Chennai,2930,6350,1.86,Under Construction,AGENT
+1576,ProptigerAGENT0,5,Apartment,Navallur,Chennai,3476,6350,2.2,Under Construction,AGENT
+1577,ProptigerAGENT0,3,Apartment,Navallur,Chennai,1445,6350,1.2,Under Construction,AGENT
+1578,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,595,4750,0.2826,Under Construction,AGENT
+1579,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,840,4750,0.39899999999999997,Under Construction,AGENT
+1580,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,845,4750,0.40130000000000005,Under Construction,AGENT
+1581,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,595,4750,0.2826,Under Construction,AGENT
+1582,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,840,4750,0.39899999999999997,Under Construction,AGENT
+1583,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,845,4750,0.40130000000000005,Under Construction,AGENT
+1584,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,870,4750,0.4132,Under Construction,AGENT
+1585,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,920,4750,0.43700000000000006,Under Construction,AGENT
+1586,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,960,4750,0.456,Under Construction,AGENT
+1587,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,841,4999,0.4936,Under Construction,AGENT
+1588,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,841,4750,0.3994,Under Construction,AGENT
+1589,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,900,4750,0.4275,Under Construction,AGENT
+1590,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,935,4750,0.44409999999999994,Under Construction,AGENT
+1591,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,962,4850,0.6035,Under Construction,AGENT
+1592,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,841,4950,0.41619999999999996,Under Construction,AGENT
+1593,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,591,4750,0.2807,Under Construction,AGENT
+1594,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1020,4750,0.48450000000000004,Under Construction,AGENT
+1595,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,591,4750,0.2807,Under Construction,AGENT
+1596,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1020,4750,0.48450000000000004,Under Construction,AGENT
+1597,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1040,4750,0.494,Under Construction,AGENT
+1598,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,990,4750,0.4702,Under Construction,AGENT
+1599,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1001,4750,0.4754,Under Construction,AGENT
+1600,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1038,4750,0.493,Under Construction,AGENT
+1601,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1042,4750,0.4949,Under Construction,AGENT
+1602,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1082,4750,0.5139,Under Construction,AGENT
+1603,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,938,4750,0.44549999999999995,Under Construction,AGENT
+1604,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1068,4850,0.6646,Under Construction,AGENT
+1605,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1081,4850,0.6895,Under Construction,AGENT
+1606,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,962,4750,0.6331,Under Construction,AGENT
+1607,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1068,4750,0.6970000000000001,Under Construction,AGENT
+1608,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1081,4750,0.7232999999999999,Under Construction,AGENT
+1609,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,962,4950,0.65,Under Construction,AGENT
+1610,ProptigerAGENT0,2,Apartment,Sholinganallur,Chennai,968,4950,0.75,Under Construction,AGENT
+1611,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1068,4950,0.72,Under Construction,AGENT
+1612,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1072,4950,0.7226,Under Construction,AGENT
+1613,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1076,4950,0.7253000000000001,Under Construction,AGENT
+1614,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1081,4950,0.7287,Under Construction,AGENT
+1615,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1086,4950,0.7321,Under Construction,AGENT
+1616,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1096,4950,0.7387999999999999,Under Construction,AGENT
+1617,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1110,4950,0.7483,Under Construction,AGENT
+1618,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1127,4850,0.7167,Under Construction,AGENT
+1619,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1134,4850,0.7209,Under Construction,AGENT
+1620,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1127,4750,0.7519,Under Construction,AGENT
+1621,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1134,4750,0.7562000000000001,Under Construction,AGENT
+1622,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1111,4950,0.5499,Under Construction,AGENT
+1623,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1123,4950,0.5558,Under Construction,AGENT
+1624,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1127,4950,0.7597,Under Construction,AGENT
+1625,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1129,4950,0.7611,Under Construction,AGENT
+1626,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1134,4950,0.78,Under Construction,AGENT
+1627,ProptigerAGENT0,3,Apartment,Sholinganallur,Chennai,1129,4750,0.7531,Under Construction,AGENT
+1628,ProptigerAGENT0,3,Apartment,Mogappair,Chennai,1889,6970,1.31,Ready to move,AGENT
+1629,ProptigerAGENT0,3,Apartment,Mogappair,Chennai,1970,6970,1.37,Ready to move,AGENT
+1630,ProptigerAGENT0,3,Apartment,Mogappair,Chennai,2000,6970,1.39,Ready to move,AGENT
+1631,ProptigerAGENT0,3,Apartment,Mogappair,Chennai,1894,6970,1.32,Ready to move,AGENT
+1632,ProptigerAGENT0,3,Apartment,Mogappair,Chennai,1991,6970,1.38,Ready to move,AGENT
+1633,ProptigerAGENT0,3,Apartment,Mogappair,Chennai,1989,6970,1.38,Ready to move,AGENT
+1634,ProptigerAGENT0,4,Apartment,Mogappair,Chennai,2580,6970,1.79,Ready to move,AGENT
+1635,ProptigerAGENT0,4,Apartment,Mogappair,Chennai,2600,6970,1.81,Ready to move,AGENT
+1636,ProptigerAGENT0,4,Apartment,Mogappair,Chennai,2598,6970,1.81,Ready to move,AGENT
+1637,ProptigerAGENT0,3,Apartment,Mogappair,Chennai,1880,6970,1.31,Ready to move,AGENT
+1638,ProptigerAGENT0,2,Apartment,Navallur,Chennai,1295,6350,0.8223,Under Construction,AGENT
+1639,ProptigerAGENT0,2,Apartment,Navallur,Chennai,1298,6350,0.9695999999999999,Under Construction,AGENT
+1640,ProptigerAGENT0,2,Apartment,Navallur,Chennai,975,6350,0.74,Under Construction,AGENT
+1641,ProptigerAGENT0,2,Apartment,Perungalathur,Chennai,1070,4995,0.5344,Under Construction,AGENT
+1642,ProptigerAGENT0,2,Apartment,Perungalathur,Chennai,1135,4995,0.5669,Under Construction,AGENT
+1643,ProptigerAGENT0,3,Apartment,Perungalathur,Chennai,1730,4995,0.8641,Under Construction,AGENT
+1644,ProptigerAGENT0,3,Apartment,Perungalathur,Chennai,1890,4995,0.9440000000000001,Under Construction,AGENT
+1645,ProptigerAGENT0,3,Apartment,Perungalathur,Chennai,2140,4995,1.06,Under Construction,AGENT
+1646,ProptigerAGENT0,2,Apartment,Perungalathur,Chennai,1080,4995,0.75,Under Construction,AGENT
+1647,ProptigerAGENT0,2,Apartment,Perungalathur,Chennai,1400,4995,0.94,Under Construction,AGENT
+1648,ProptigerAGENT0,3,Apartment,Perungalathur,Chennai,1800,4995,1.2,Under Construction,AGENT
+1649,Chennai propertiesBUILDER0,3,Apartment,Mahindra,Chennai,1550,3548,0.55,Ready to move,BUILDER
+1650,Raj HousingAGENT0,2,Villa,Poonamallee,Chennai,975,7076,0.69,Ready to move,AGENT
+1651,Raj HousingAGENT0,2,Apartment,Poonamallee,Chennai,700,4571,0.31989999999999996,Ready to move,AGENT
+1652,Chennai propertiesBUILDER0,2,Villa,Minjur,Chennai,920,2934,0.27,Under Construction,BUILDER
+1653,VenkatakrishnanAGENT0,6,Independent,T,Chennai,4650,12903,6.0,Ready to move,AGENT
+1654,Elite Estate RajkumarAGENT0,2,Villa,Vengambakkam,Chennai,1010,4426,0.4471,Under Construction,AGENT
+1655,jaylakshmiBUILDER0,2,Independent,Chengalpattu,Chennai,850,3518,0.2991,Under Construction,BUILDER
+1656,jaylakshmiBUILDER0,2,Independent,Chengalpattu,Chennai,683,4527,0.30920000000000003,Under Construction,BUILDER
+1657,jaylakshmiBUILDER0,2,Independent,Chengalpattu,Chennai,800,2875,0.23,Under Construction,BUILDER
+1658,AnbuchezhianAGENT0,3,Apartment,Ambattur,Chennai,1144,6381,0.73,Under Construction,AGENT
+1659,Raj HousingAGENT0,2,Villa,Poonamallee,Chennai,964,7157,0.69,Ready to move,AGENT
+1660,KISHORE PROMOTORSBUILDER0,2,Apartment,Korattur,Chennai,835,5748,0.48,Ready to move,BUILDER
+1661,JLLAGENT0,2,Apartment,Gerugambakkam,Chennai,445,5838,0.2597,Ready to move,AGENT
+1662,Raj HousingAGENT0,2,Independent,Poonamallee,Chennai,975,7087,0.691,Ready to move,AGENT
+1663,Raj HousingAGENT0,2,Villa,Poonamallee,Chennai,1375,7061,0.971,Ready to move,AGENT
+1664,vetrirealsBUILDER0,2,Independent,Chengalpattu,Chennai,683,4557,0.31129999999999997,Under Construction,BUILDER
+1665,KM PROPERTYBUILDER0,3,Independent,Oragadam,Chennai,1800,2500,0.45,Under Construction,BUILDER
+1666,KM PROPERTYBUILDER0,2,Independent,Oragadam,Chennai,1444,2700,0.39,Under Construction,BUILDER
+1667,Elite Estate RajkumarAGENT0,3,Villa,Kandigai,Chennai,1298,3876,0.5032,Under Construction,AGENT
+1668,Elite Estate RajkumarAGENT0,2,Villa,Kandigai,Chennai,1256,4241,0.5327000000000001,Under Construction,AGENT
+1669,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,986,8171,0.8056,Under Construction,AGENT
+1670,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,986,8171,0.8056,Under Construction,AGENT
+1671,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,920,8171,0.7517,Under Construction,AGENT
+1672,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,920,8171,0.7517,Under Construction,AGENT
+1673,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,986,8171,0.8056,Under Construction,AGENT
+1674,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,986,8171,0.8056,Under Construction,AGENT
+1675,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,920,8171,0.7517,Under Construction,AGENT
+1676,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,920,8171,0.7517,Under Construction,AGENT
+1677,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,820,8170,0.67,Under Construction,AGENT
+1678,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,820,8170,0.67,Under Construction,AGENT
+1679,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,918,8171,0.75,Under Construction,AGENT
+1680,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,918,8171,0.75,Under Construction,AGENT
+1681,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,874,8171,0.7141,Under Construction,AGENT
+1682,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,874,8171,0.7141,Under Construction,AGENT
+1683,INSTAPROPAGENT0,1,Apartment,Mugalivakkam,Chennai,622,7877,0.49,Under Construction,AGENT
+1684,INSTAPROPAGENT0,1,Apartment,Mugalivakkam,Chennai,622,7877,0.49,Under Construction,AGENT
+1685,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,878,8171,0.7173999999999999,Under Construction,AGENT
+1686,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,878,8171,0.7173999999999999,Under Construction,AGENT
+1687,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,861,8171,0.7034999999999999,Under Construction,AGENT
+1688,INSTAPROPAGENT0,2,Apartment,Mugalivakkam,Chennai,861,8171,0.7034999999999999,Under Construction,AGENT
+1689,PROPLEAFAGENT0,3,Apartment,Porur,Chennai,1116,6350,0.7086,Under Construction,AGENT
+1690,PROPLEAFAGENT0,3,Apartment,Porur,Chennai,1190,6350,0.7556,Under Construction,AGENT
+1691,PROPLEAFAGENT0,3,Apartment,Porur,Chennai,1268,6350,0.8051,Under Construction,AGENT
+1692,PROPLEAFAGENT0,3,Apartment,Porur,Chennai,1287,6350,0.8172,Under Construction,AGENT
+1693,ARB HOMESAGENT0,3,Apartment,Agaramthen,Chennai,1305,4399,0.574,Under Construction,AGENT
+1694,ARB HOMESAGENT0,3,Apartment,Agaramthen,Chennai,1305,4399,0.574,Under Construction,AGENT
+1695,ARB HOMESAGENT0,2,Apartment,Agaramthen,Chennai,891,4399,0.39189999999999997,Under Construction,AGENT
+1696,ARB HOMESAGENT0,2,Apartment,Agaramthen,Chennai,891,4399,0.39189999999999997,Under Construction,AGENT
+1697,ARB HOMESAGENT0,3,Apartment,Agaramthen,Chennai,1056,4399,0.4645,Under Construction,AGENT
+1698,ARB HOMESAGENT0,3,Apartment,Agaramthen,Chennai,1056,4399,0.4645,Under Construction,AGENT
+1699,ARB HOMESAGENT0,3,Apartment,Agaramthen,Chennai,1305,4399,0.574,Under Construction,AGENT
+1700,ARB HOMESAGENT0,2,Apartment,Agaramthen,Chennai,891,4399,0.39189999999999997,Under Construction,AGENT
+1701,ARB HOMESAGENT0,3,Apartment,Agaramthen,Chennai,1056,4399,0.4645,Under Construction,AGENT
+1702,JayalakshmiBUILDER0,2,Independent,Chengalpattu,Chennai,750,3988,0.2991,Under Construction,BUILDER
+1703,JayalakshmiBUILDER0,2,Independent,Chengalpattu,Chennai,683,4527,0.30920000000000003,Under Construction,BUILDER
+1704,ProptigerAGENT0,4,Apartment,Oragadam,Chennai,2804,4000,1.12,Ready to move,AGENT
+1705,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,2256,4000,0.9024,Ready to move,AGENT
+1706,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,1992,4000,0.7968000000000001,Ready to move,AGENT
+1707,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,1927,4000,0.7707999999999999,Ready to move,AGENT
+1708,ProptigerAGENT0,4,Apartment,Oragadam,Chennai,2804,4000,1.12,Ready to move,AGENT
+1709,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,2256,4000,0.9024,Ready to move,AGENT
+1710,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,1992,4000,0.7968000000000001,Ready to move,AGENT
+1711,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,1991,4000,0.7964,Ready to move,AGENT
+1712,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,1894,4000,0.7576,Ready to move,AGENT
+1713,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,1895,4000,0.758,Ready to move,AGENT
+1714,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,1859,4000,0.7436,Ready to move,AGENT
+1715,ProptigerAGENT0,2,Apartment,Oragadam,Chennai,1763,4000,0.7051999999999999,Ready to move,AGENT
+1716,ProptigerAGENT0,2,Apartment,Oragadam,Chennai,1706,4000,0.6823999999999999,Ready to move,AGENT
+1717,ProptigerAGENT0,2,Apartment,Oragadam,Chennai,1437,4000,0.5748,Ready to move,AGENT
+1718,ProptigerAGENT0,2,Apartment,Oragadam,Chennai,1350,4000,0.54,Ready to move,AGENT
+1719,ProptigerAGENT0,2,Apartment,Oragadam,Chennai,1185,4000,0.474,Ready to move,AGENT
+1720,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,1927,4000,0.7707999999999999,Ready to move,AGENT
+1721,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,1895,4000,0.758,Ready to move,AGENT
+1722,ProptigerAGENT0,3,Apartment,Oragadam,Chennai,1859,4000,0.7436,Ready to move,AGENT
+1723,ProptigerAGENT0,2,Apartment,Oragadam,Chennai,1763,4000,0.7051999999999999,Ready to move,AGENT
+1724,ProptigerAGENT0,2,Apartment,Oragadam,Chennai,1706,4000,0.6823999999999999,Ready to move,AGENT
+1725,ProptigerAGENT0,2,Apartment,Oragadam,Chennai,1437,4000,0.5748,Ready to move,AGENT
+1726,ProptigerAGENT0,2,Apartment,Oragadam,Chennai,1350,4000,0.54,Ready to move,AGENT
+1727,ProptigerAGENT0,2,Apartment,Oragadam,Chennai,1185,4000,0.474,Ready to move,AGENT
+1728,Vishnu Foundation LtdAGENT0,3,Villa,Sembakkam,Chennai,1900,6315,1.2,Ready to move,AGENT
+1729,PROPLEAFAGENT0,2,Apartment,Perungalathur,Chennai,572,3950,0.2259,Ready to move,AGENT
+1730,Swastikk homesAGENT0,2,Villa,Camp,Chennai,1012,7069,0.7154,Under Construction,AGENT
+1731,Chennai propertiesBUILDER0,2,Independent,Minjur,Chennai,1100,2000,0.22,Under Construction,BUILDER
+1732,Vishnu Foundation LtdAGENT0,3,Apartment,Selaiyur,Chennai,1106,7685,0.85,Ready to move,AGENT
+1733,Casagrand SellassureAGENT0,1,Apartment,Kotivakkam,Chennai,586,8191,0.48,Ready to move,AGENT
+1734,MYPROP TELLERAGENT0,2,Apartment,Korattur,Chennai,818,7500,0.6135,Ready to move,AGENT
+1735,MYPROP TELLERAGENT0,3,Apartment,Korattur,Chennai,1433,7500,1.07,Ready to move,AGENT
+1736,ProptigerAGENT0,2,Apartment,Kovur,Chennai,624,5250,0.3276,Ready to move,AGENT
+1737,ProptigerAGENT0,2,Apartment,Kovur,Chennai,614,5250,0.3223,Ready to move,AGENT
+1738,ProptigerAGENT0,2,Apartment,Kovur,Chennai,934,5250,0.4903,Ready to move,AGENT
+1739,ProptigerAGENT0,2,Apartment,Kovur,Chennai,913,5250,0.4793,Ready to move,AGENT
+1740,ProptigerAGENT0,3,Apartment,Kovur,Chennai,1361,5250,0.7145,Ready to move,AGENT
+1741,ProptigerAGENT0,3,Apartment,Kovur,Chennai,1340,5250,0.7034999999999999,Ready to move,AGENT
+1742,vetrirealsBUILDER0,2,Villa,Vandalur,Chennai,1250,4400,0.55,Ready to move,BUILDER
+1743,Chennai propertiesBUILDER0,2,Apartment,Mahindra,Chennai,1141,3943,0.45,Ready to move,BUILDER
+1744,vetrirealsBUILDER0,2,Independent,Chengalpattu,Chennai,750,3988,0.2991,Under Construction,BUILDER
+1745,vetrirealsBUILDER0,2,Independent,Chengalpattu,Chennai,683,4527,0.30920000000000003,Under Construction,BUILDER
+1746,Vishnu Foundation LtdAGENT0,4,Villa,Selaiyur,Chennai,3000,5000,1.5,Ready to move,AGENT
+1747,Vishnu Foundation LtdAGENT0,4,Apartment,Madambakkam,Chennai,2060,5000,1.03,Ready to move,AGENT
+1748,ProptigerAGENT0,3,Apartment,Perungalathur,Chennai,2095,4995,1.04,Under Construction,AGENT
+1749,ProptigerAGENT0,2,Apartment,Perungalathur,Chennai,1405,4995,0.7017,Under Construction,AGENT
+1750,ProptigerAGENT0,2,Apartment,Perungalathur,Chennai,1135,4995,0.5669,Under Construction,AGENT
+1751,ProptigerAGENT0,2,Apartment,Perungalathur,Chennai,1070,4995,0.5344,Under Construction,AGENT
+1752,Casagrand SellassureAGENT0,2,Apartment,Manapakkam,Chennai,1035,7246,0.75,Ready to move,AGENT
+1753,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,993,11253,1.11,Ready to move,AGENT
+1754,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,993,11253,1.11,Ready to move,AGENT
+1755,Full Basket property services Pvt ltdAGENT0,1,Apartment,Sholinganallur,Chennai,394,12796,0.5041,Ready to move,AGENT
+1756,Full Basket property services Pvt ltdAGENT0,1,Apartment,Sholinganallur,Chennai,394,12796,0.5041,Ready to move,AGENT
+1757,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,993,11253,1.11,Ready to move,AGENT
+1758,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,993,11253,1.11,Ready to move,AGENT
+1759,Full Basket property services Pvt ltdAGENT0,1,Apartment,Sholinganallur,Chennai,394,12796,0.5041,Ready to move,AGENT
+1760,Full Basket property services Pvt ltdAGENT0,1,Apartment,Sholinganallur,Chennai,394,12796,0.5041,Ready to move,AGENT
+1761,Full Basket property services Pvt ltdAGENT0,1,Apartment,Sholinganallur,Chennai,390,12906,0.5033,Ready to move,AGENT
+1762,Full Basket property services Pvt ltdAGENT0,1,Apartment,Sholinganallur,Chennai,390,12906,0.5033,Ready to move,AGENT
+1763,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,864,10012,0.8651000000000001,Ready to move,AGENT
+1764,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,864,10012,0.8651000000000001,Ready to move,AGENT
+1765,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,934,11372,1.06,Ready to move,AGENT
+1766,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,934,11372,1.06,Ready to move,AGENT
+1767,Full Basket property services Pvt ltdAGENT0,1,Apartment,Sholinganallur,Chennai,389,12917,0.5025,Ready to move,AGENT
+1768,Full Basket property services Pvt ltdAGENT0,1,Apartment,Sholinganallur,Chennai,389,12917,0.5025,Ready to move,AGENT
+1769,Full Basket property services Pvt ltdAGENT0,3,Apartment,Sholinganallur,Chennai,1077,12552,1.35,Ready to move,AGENT
+1770,Full Basket property services Pvt ltdAGENT0,3,Apartment,Sholinganallur,Chennai,1077,12552,1.35,Ready to move,AGENT
+1771,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,980,11277,1.1,Ready to move,AGENT
+1772,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,980,11277,1.1,Ready to move,AGENT
+1773,Full Basket property services Pvt ltdAGENT0,3,Apartment,Sholinganallur,Chennai,1214,11328,1.37,Ready to move,AGENT
+1774,Full Basket property services Pvt ltdAGENT0,3,Apartment,Sholinganallur,Chennai,1214,11328,1.37,Ready to move,AGENT
+1775,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,857,10501,0.9,Ready to move,AGENT
+1776,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,857,10501,0.9,Ready to move,AGENT
+1777,Full Basket property services Pvt ltdAGENT0,3,Apartment,Sholinganallur,Chennai,1087,11732,1.27,Ready to move,AGENT
+1778,Full Basket property services Pvt ltdAGENT0,3,Apartment,Sholinganallur,Chennai,1087,11732,1.27,Ready to move,AGENT
+1779,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,856,9970,0.8534,Ready to move,AGENT
+1780,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,856,9970,0.8534,Ready to move,AGENT
+1781,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,976,11142,1.08,Ready to move,AGENT
+1782,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,976,11142,1.08,Ready to move,AGENT
+1783,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,923,11050,1.02,Ready to move,AGENT
+1784,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,923,11050,1.02,Ready to move,AGENT
+1785,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,843,10156,0.8561,Ready to move,AGENT
+1786,Full Basket property services Pvt ltdAGENT0,2,Apartment,Sholinganallur,Chennai,843,10156,0.8561,Ready to move,AGENT
